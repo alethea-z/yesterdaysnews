@@ -2,7 +2,7 @@
 title: "Meta: EU rügt Schutz von Minderjährigen auf Facebook und Instagram"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
-description: "Die EU rügt Meta wegen unzureichender Schutzmaßnahmen für Minderjährige. Das betrifft Plattformdesign, Altersprüfung und Haftungsdruck."
+description: "Die EU rügt Meta wegen unzureichender Schutzmaßnahmen für Minderjährige."
 tags: ["Meta", "DSA", "Kinderschutz", "Plattformen"]
 categories: ["journal"]
 ---
@@ -18,7 +18,7 @@ categories: ["journal"]
 | Thema | Was die EU kritisiert | Praktische Folge |
 |---|---|---|
 | Altersprüfung | Selbstdeklaration ist zu leicht auszutricksen | Mehr Verification-Druck |
-| Meldemechanismen | Zu kompliziert, zu langsam | Plattformen müssen UX als Sicherheitsfrage behandeln |
+| Meldemechanismen | Zu kompliziert, zu langsam | Plattformen sollten UX auch als Sicherheitsfrage behandeln |
 | Risikoanalyse | Kinder werden nicht robust genug geschützt | Compliance wird produktnah statt juristisch |
 
 Die Zahl ist dabei fast nebensächlich, aber nicht unwichtig: Laut Berichterstattung nutzen 10 bis 12 Prozent der unter 13-Jährigen in Europa Facebook oder Instagram. Genau deshalb ist die Frage nicht moralisch aufgeladen, sondern technisch und organisatorisch: Welche Kontrolle funktioniert überhaupt, wenn Nutzerangaben systematisch unzuverlässig sind?

@@ -2,7 +2,7 @@
 title: "KLA: Nachfrage nach Halbleiter-Equipment bleibt hoch"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
-description: "KLA profitiert von AI-getriebener Nachfrage in der Chipfertigung. Das ist ein Lehrstück über die unsichtbare Infrastruktur hinter KI."
+description: "Die Zahlen deuten auf anhaltende Nachfrage in der Halbleiterfertigung hin."
 tags: ["Halbleiter", "KI", "Fertigung", "Mess- und Prüftechnik"]
 categories: ["journal"]
 ---

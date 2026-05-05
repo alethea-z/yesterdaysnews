@@ -4,10 +4,11 @@
 - Klar und kompakt
 - Kuratiert statt flüchtig
 - Objektiv, kritisch und quellenbasiert
+- Ruhig, prägnant und ohne Clickbait-Ton
 - Mit Überschrift, Einordnung und Links auf Originalquellen
 
 ## Pro Blogpost
-Jedes recherchierte Thema wird als eigener Blogpost ausgearbeitet.
+Jedes recherchierte Thema wird als eigener Blogpost ausgearbeitet. Die Tonalität folgt zusätzlich den Regeln aus `style.md`.
 
 ### Empfohlene Struktur
 1. **Titel**

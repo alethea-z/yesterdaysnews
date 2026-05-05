@@ -2,7 +2,7 @@
 title: "Deutsche Post und DHL: Konzernauftritt wird vereinheitlicht"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
-description: "Die formale Umbenennung spiegelt einen Konzern wider, der längst globaler Logistikanbieter ist als klassische Postgesellschaft."
+description: "Die Umstellung bündelt den Außenauftritt eines Konzerns, der längst globaler Logistikanbieter ist."
 tags: ["DHL", "Logistik", "Deutschland", "Unternehmen"]
 categories: ["journal"]
 ---

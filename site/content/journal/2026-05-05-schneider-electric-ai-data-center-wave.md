@@ -2,7 +2,7 @@
 title: "Schneider Electric profitiert vom Ausbau von Rechenzentren"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
-description: "Die Q1-Zahlen zeigen, wie sehr KI inzwischen ein Infrastrukturgeschäft ist: Strom, Kühlung, Verfügbarkeit."
+description: "Die Zahlen zeigen die Bedeutung von Strom, Kühlung und Verfügbarkeit im Rechenzentrumsmarkt."
 tags: ["KI", "Rechenzentren", "Energie", "Schneider Electric"]
 categories: ["journal"]
 ---

@@ -2,7 +2,7 @@
 title: "Deutschland: Leichtes Wachstum bei Arbeitslosigkeit über 3 Millionen"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
-description: "Das Q1-Wachstum klingt freundlich, verdeckt aber einen Arbeitsmarkt, der weiter unter Druck steht."
+description: "Das Q1-Wachstum steht neben einem Arbeitsmarkt mit weiterhin über 3 Millionen Arbeitslosen."
 tags: ["Deutschland", "Wirtschaft", "Arbeitsmarkt", "Konjunktur"]
 categories: ["journal"]
 ---

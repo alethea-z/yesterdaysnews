@@ -9,6 +9,7 @@ Die Kriterien sollen der Recherche eine klare Richtung geben:
 - Welche Fachthemen sollen bevorzugt werden?
 - Welche Quellen sind belastbar?
 - Wie wird das Ergebnis dargestellt?
+- Welcher Sprach- und Tonrahmen soll gelten?
 
 ## Ordnung
 - `temporal-relevance.md` – Zeitliche Relevanz und Entwicklung
@@ -16,6 +17,7 @@ Die Kriterien sollen der Recherche eine klare Richtung geben:
 - `focus-topics.md` – Fachliche Schwerpunkte
 - `source-quality.md` – Quellenqualität
 - `format.md` – Ausgabestil und Struktur
+- `style.md` – Tonalität, Überschriften und sprachliche Zurückhaltung
 
 ## Pflegeprinzip
 Jedes Kriterium ist bewusst in einer eigenen Markdown-Datei gehalten, damit du es einzeln ändern und ergänzen kannst.

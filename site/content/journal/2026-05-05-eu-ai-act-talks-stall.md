@@ -2,7 +2,7 @@
 title: "EU AI Act: Verhandlungen über Entlastungen kommen nicht voran"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
-description: "Die gescheiterten Verhandlungen über weichere KI-Regeln verlängern Unsicherheit für alle, die KI-Systeme bauen, beschaffen oder auditieren."
+description: "Die Verhandlungen über Entlastungen kommen nicht voran und halten die Rechtslage für KI-Projekte offen."
 tags: ["EU", "AI Act", "Regulierung", "KI"]
 categories: ["journal"]
 ---

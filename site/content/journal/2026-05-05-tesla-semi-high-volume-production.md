@@ -2,7 +2,7 @@
 title: "Tesla Semi erreicht die Serienproduktion"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
-description: "Die erste Semi-Auslieferung aus der Hochvolumenproduktion ist ein Signal für E-Lkw, Batterielogistik und Flottenstrategien."
+description: "Die Serienproduktion des Semi ist ein Signal für E-Lkw, Batterielogistik und Flottenstrategien."
 tags: ["Tesla", "E-Lkw", "Logistik", "Elektromobilität"]
 categories: ["journal"]
 ---
@@ -29,7 +29,7 @@ Für Deutschland und Europa ist das relevant, weil der Nutzfahrzeugmarkt nicht a
 
 Die zentrale Frage ist nicht, ob der Semi ein gutes Produkt ist. Die Frage ist, ob er den Markt von der Demonstration in die Routine bringt. Genau daran scheitern viele E-Mobilitätsprojekte: Die Technik funktioniert im Demo-Kontext, aber nicht in der Alltagslogistik mit Taktung, Fahrerwechseln und knappen Standzeiten.
 
-Die Meldung ist deshalb vor allem ein Skalierungssignal. Sollte Tesla die Fertigung wirklich hochziehen, dürfte sich der Diskurs von „Kann ein E-Lkw funktionieren?“ zu „Wer liefert ihn zuerst, zu welchem Preis und mit welcher Verfügbarkeit?“ verschieben. Das ist ein anderer Markt.
+Die Meldung ist deshalb vor allem ein Skalierungssignal. Sollte Tesla die Fertigung hochziehen, dürfte sich der Diskurs von „Kann ein E-Lkw funktionieren?“ zu „Wer liefert ihn zuerst, zu welchem Preis und mit welcher Verfügbarkeit?“ verschieben. Das ist ein anderer Markt.
 
 ## Relevanzbegründung
 

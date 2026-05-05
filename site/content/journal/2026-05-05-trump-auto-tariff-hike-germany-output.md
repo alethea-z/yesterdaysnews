@@ -2,7 +2,7 @@
 title: "US-Autozölle könnten Deutschlands Industrie deutlich belasten"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
-description: "Die angekündigte Zollanhebung auf EU-Autos könnte Deutschland laut IfW Milliarden kosten — ein echter Standort- und Lieferketten-Schock."
+description: "Die angekündigte Zollanhebung auf EU-Autos könnte Deutschlands Industrie deutlich belasten."
 tags: ["Autoindustrie", "Zölle", "Deutschland", "Lieferkette"]
 categories: ["journal"]
 ---

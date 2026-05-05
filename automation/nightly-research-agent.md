@@ -42,6 +42,11 @@ Bewerte jedes Thema entlang von:
 - Bilder, Daten, Tabellen oder Diagramme, wenn sinnvoll
 - Kurze Relevanzbegründung
 
+## Stil
+- Lies und befolge zusätzlich `criteria/style.md`.
+- Überschriften sollen ruhig, prägnant und sachlich sein.
+- Keine Fragen, keine Zuspitzung, keine unnötigen Verstärker.
+
 ## Schreibziel
 Nutze das Hugo-Format von `site/archetypes/journal.md` als Vorlage und ergänze passende Frontmatter-Felder wie:
 - `tags`

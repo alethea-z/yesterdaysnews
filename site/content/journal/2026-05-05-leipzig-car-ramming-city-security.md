@@ -2,7 +2,7 @@
 title: "Leipzig: Ermittlungen nach Angriff in der Innenstadt"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
-description: "Der Angriff in Leipzig ist nicht nur ein Polizeithema, sondern ein Test für Krisenkommunikation, Raumgestaltung und Einsatzbereitschaft in dicht genutzten Innenstädten."
+description: "Der Angriff in Leipzig wirft Fragen zur Sicherung öffentlicher Räume und zur Krisenkommunikation auf."
 tags: ["Leipzig", "Sicherheit", "Krisenmanagement", "Innenstadt"]
 categories: ["journal"]
 ---
@@ -33,7 +33,7 @@ Drei Lehren springen heraus:
 2. **Krisenkommunikation muss schneller sein als Gerüchte.**
 3. **Innenstädte brauchen Schutz, ohne sich in Festungen zu verwandeln.**
 
-Gerade für Leipzig ist das politisch heikel: Die Stadt lebt von Offenheit, Gastronomie, Handel und Kultur. Überhastete Symbolpolitik würde den falschen Preis verlangen. Sinnvoller ist eine stille, operative Nachrüstung an den Stellen, wo Verkehr, Fußgängerströme und Engstellen aufeinandertreffen.
+Für Leipzig ist das ein sensibles Thema: Die Stadt lebt von Offenheit, Gastronomie, Handel und Kultur. Sinnvoller ist eine stille, operative Nachrüstung an den Stellen, wo Verkehr, Fußgängerströme und Engstellen aufeinandertreffen.
 
 ## Relevanzbegründung
 
