@@ -1,21 +1,26 @@
 # Relevance Criteria
 
-## Kernregel
-Eine Nachricht ist für dieses Projekt relevant, wenn das auslösende Ereignis **mehr als einen Tag alt** ist, aber weiterhin **für die heutigen Nachrichten interessant** bleibt.
+Dieses Verzeichnis enthält die pflegbaren Relevanzkriterien für **yesterdaysnews**.
 
-## Bewertungsfragen
-- Ist das Thema noch aktuell relevant oder bereits verrauscht?
-- Hat das Ereignis über den Tag hinaus Bedeutung?
-- Liefert die Meldung echte Einordnung statt nur Tempo?
-- Ist der Abstand zum Auslöser groß genug, um jenseits der Breaking-News-Logik zu liegen?
+## Leitidee
+Relevanz entsteht aus einer Kombination von:
+- zeitlicher Relevanz
+- örtlicher Nähe bzw. Tragweite
+- fachlicher Passung
 
-## Bevorzugte Signale
-- Nachwirkungen eines Ereignisses
-- Folgen, Einordnung, Analyse, Reaktionen
-- Entwicklungen mit tatsächlicher Auswirkung auf Menschen, Politik, Wirtschaft, Technik oder Gesellschaft
-- Themen, die durch die Tagesaktualität sonst untergehen würden
+## Zusammenspiel
+Ein Thema ist besonders stark, wenn mehrere Kriterien gleichzeitig greifen.
+Ein Thema kann aber auch dann relevant sein, wenn nur ein Kriterium sehr stark erfüllt ist — etwa eine große Tragweite bei großer Entfernung oder ein sehr gutes fachliches Signal.
 
-## Ausschluss
-- Reine Sofortmeldungen ohne Substanz
-- Inhalte, die nur wegen ihrer Frische interessant sind
-- Starke Klicklogik ohne inhaltlichen Mehrwert
+## Arbeitsregel
+Die Recherche soll nicht nur einzelne Nachrichten sammeln, sondern prüfen:
+- ob ein Thema schon älter ist und deshalb eine breitere Einordnung braucht
+- ob ein fernes Ereignis für Leipzig trotzdem relevant genug ist
+- ob sich aus vielen kleinen Fällen eine allgemeine Entwicklung ableiten lässt
+
+## Dateien
+- `temporal-relevance.md` – Zeitliche Relevanz und Entwicklung
+- `local-proximity.md` – Leipzig bis Welt und Tragweite
+- `focus-topics.md` – Fachliche Schwerpunkte
+- `source-quality.md` – Quellenqualität
+- `format.md` – Darstellungsform

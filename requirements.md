@@ -14,6 +14,7 @@
 - Blog-/Journal-Struktur mit Tags, damit Themen auffindbar bleiben.
 - Neue tägliche Einträge erscheinen zuerst auf der Startseite; ältere Inhalte bleiben im Journal archiviert.
 - Relevanzkriterien als eigene Markdown-Sammlung in einem separaten Projektordner.
+- Die Kriterien umfassen zeitliche Relevanz, örtliche Nähe und fachliche Themen.
 
 ## Workflow
 0. Relevanzkriterien festlegen und im Projektordner pflegen.
@@ -30,6 +31,8 @@
 - Für den MVP soll ein täglicher Recherche-Job um 03:00 Uhr laufen und 10 relevante Beiträge vorbereiten.
 - Neue Beiträge werden als Hugo-kompatible Journal-Einträge mit Tags angelegt.
 - Die Startseite zeigt nur die neuesten Beiträge, das Journal enthält den vollständigen Verlauf.
+- Relevanzprüfungen sollen die drei Hauptachsen explizit behandeln: Zeit, Ort/Tragweite und Fachthema.
+- Bei älteren Themen sollen Verallgemeinerungen oder Zeitverläufe nur mit Quellen, Fakten oder mehreren Beispielen erfolgen.
 - Die Recherche kann zunächst als Platzhalter oder Entwurf laufen; der Schwerpunkt liegt auf einem sauberen, automatisierbaren Ablauf.
 
 ## Nicht-Ziele
@@ -44,6 +47,7 @@
 - Der MVP soll mit einer statischen Website und einem statischen Generator wie Hugo umsetzbar sein.
 - Relevanzkriterien werden als Markdown-Dateien in einem separaten Ordner gepflegt.
 - Der Hugo-Quellcode liegt getrennt unter `site/`.
+- Die Relevanz wird aus Zeitnähe, räumlicher Nähe und fachlicher Passung zusammengedacht.
 
 ## Akzeptanzkriterien
 - Eine Übersicht enthält nur Meldungen, die dem Relevanzkriterium entsprechen oder es plausibel erfüllen.

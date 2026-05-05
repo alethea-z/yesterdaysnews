@@ -11,3 +11,4 @@
 | 2026-05-05 | `hugo-theme-stack` ist das verwendete Theme und wird als Git-Submodule eingebunden. | Der MVP erhält direkt ein passendes Blog-Theme mit Tags und Journal-Charakter. | Git Submodule + Hugo-Konfiguration |
 | 2026-05-05 | Der GitHub-Actions-Build nutzt die aktuelle Hugo-Version (`latest`). | Das Theme benötigt eine neuere Hugo-API als die zuvor gepinnten Versionen. | GitHub Actions Workflow `/.github/workflows/hugo-pages.yml` |
 | 2026-05-05 | Das Projekt nutzt ein 150x150-Logo links oben sowie Standard-Widgets für Archives, Categories und Tags rechts. | Gewünschte Blog-Optik und schnelle thematische Navigation sind damit direkt vorhanden. | Hugo-Konfiguration + Theme-Widgets |
+| 2026-05-05 | Relevanz wird künftig entlang der drei Achsen Zeit, Ort/Tragweite und Fachthema geprüft. | Dadurch wird die Recherche breiter, robuster und für Leipzig stärker fokussiert. | User-Input |

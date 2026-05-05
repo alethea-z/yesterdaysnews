@@ -9,6 +9,10 @@
 - Offizielle Mitteilungen
 - Direkte Dokumente, Berichte oder Daten
 - Seriöse Fachmedien mit nachvollziehbarer Herkunft
+- Vergleichende Quellen, wenn eine Verallgemeinerung belegt werden soll
+
+## Rechercheregel
+Wenn ein Thema verallgemeinert wird, muss die Verallgemeinerung mit Quellen, Daten oder mehreren Beispielen abgesichert sein.
 
 ## Weniger geeignet
 - Reine Aggregatoren ohne eigene Einordnung

@@ -3,11 +3,19 @@
 Dieses Verzeichnis enthält die pflegbaren Relevanzkriterien für **yesterdaysnews**.
 
 ## Zweck
-- Kriterien sollen schnell änderbar und erweiterbar bleiben.
-- Jedes Kriterium lebt in einer eigenen Markdown-Datei.
-- Der tägliche Recherche-Job soll diese Dateien als Grundlage nutzen.
+Die Kriterien sollen der Recherche eine klare Richtung geben:
+- Welche Themen sind zeitlich interessant?
+- Was ist für Leipzig relevant genug?
+- Welche Fachthemen sollen bevorzugt werden?
+- Welche Quellen sind belastbar?
+- Wie wird das Ergebnis dargestellt?
 
-## Startdateien
-- `relevance.md` – Kernkriterium und Bewertungslogik
-- `source-quality.md` – Anforderungen an Quellen und Verlässlichkeit
-- `format.md` – Wunschformat für Aufbereitung und Ausgabe
+## Ordnung
+- `temporal-relevance.md` – Zeitliche Relevanz und Entwicklung
+- `local-proximity.md` – Leipzig bis Welt und Tragweite
+- `focus-topics.md` – Fachliche Schwerpunkte
+- `source-quality.md` – Quellenqualität
+- `format.md` – Ausgabestil und Struktur
+
+## Pflegeprinzip
+Jedes Kriterium ist bewusst in einer eigenen Markdown-Datei gehalten, damit du es einzeln ändern und ergänzen kannst.
