@@ -16,3 +16,7 @@ summary: ""
 ## Bilder, Daten, Tabellen oder Diagramme
 
 ## Warum dieser Eintrag relevant ist
+
+## Quellen
+- [Quelle 1](https://example.com) — belegt ...
+- [Quelle 2](https://example.com) — belegt ...

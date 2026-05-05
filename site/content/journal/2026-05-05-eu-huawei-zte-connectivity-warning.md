@@ -35,5 +35,5 @@ Für Leipzig und Sachsen ist das spannend, weil hier Industrie, Hochschulen, For
 
 ## Quellen
 
-1. Reuters: [EU recommends member states to not use Huawei, ZTE in connectivity infrastructure](https://www.reuters.com/sustainability/boards-policy-regulation/eu-recommends-member-states-not-use-huwaei-zte-connectivity-infrastructure-2026-05-04/)
-2. Reuters: [EU countries, lawmakers fail to reach deal on watered-down AI rules](https://www.reuters.com/sustainability/boards-policy-regulation/eu-countries-lawmakers-fail-reach-deal-on-watered-down-ai-rules-2026-04-29/)
+1. Reuters: [EU recommends member states to not use Huawei, ZTE in connectivity infrastructure](https://www.reuters.com/sustainability/boards-policy-regulation/eu-recommends-member-states-not-use-huawei-zte-connectivity-infrastructure-2026-05-04/) — belegt die aktuelle Brüsseler Empfehlung.
+2. European Commission: [Proposal for a Regulation for the EU Cybersecurity Act](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-eu-cybersecurity-act) — ordnet die mögliche Eingriffslogik im Cybersecurity-Rahmen ein.

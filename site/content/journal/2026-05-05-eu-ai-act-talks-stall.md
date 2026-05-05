@@ -39,5 +39,5 @@ Leipzig ist kein Brüsseler Gesetzgebungszentrum, aber ein Ort, an dem KI in Ver
 
 ## Quellen
 
-1. Reuters: [EU countries, lawmakers fail to reach deal on watered-down AI rules](https://www.reuters.com/sustainability/boards-policy-regulation/eu-countries-lawmakers-fail-reach-deal-on-watered-down-ai-rules-2026-04-29/)
-2. European Commission: [Commission preliminarily finds Meta in breach of Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_920)
+1. Reuters: [EU countries, lawmakers fail to reach deal on watered-down AI rules](https://www.reuters.com/sustainability/boards-policy-regulation/eu-countries-lawmakers-fail-reach-deal-on-watered-down-ai-rules-2026-04-29/) — belegt den Stillstand in den Verhandlungen.
+2. European Union: [AI Act | Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) — zeigt den offiziellen Rahmen und die Vereinfachungslogik.

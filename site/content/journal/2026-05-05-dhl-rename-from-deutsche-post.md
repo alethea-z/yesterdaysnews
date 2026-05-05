@@ -37,5 +37,4 @@ Das ist ein gutes Beispiel für eine Meldung, die auf den ersten Blick nach Corp
 
 ## Quellen
 
-1. DHL Group: [Annual General Meeting](https://group.dhl.com/en/investors/annual-general-meeting.html)
-2. Reuters: [Deutsche Post to officially rename as DHL](https://www.reuters.com/world/europe/deutsche-post-officially-rename-dhl-2026-05-05/)
+1. Reuters: [Deutsche Post to officially rename as DHL](https://www.reuters.com/world/europe/deutsche-post-officially-rename-dhl-2026-05-05/) — belegt die Einordnung als offizielle Umbenennung.

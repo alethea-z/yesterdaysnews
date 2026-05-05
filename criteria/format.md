@@ -10,6 +10,11 @@
 ## Pro Blogpost
 Jedes recherchierte Thema wird als eigener Blogpost ausgearbeitet. Die Tonalität folgt zusätzlich den Regeln aus `style.md`.
 
+### Quellenhygiene
+- Jede Quelle im Quellenblock bekommt eine kurze Notiz, wofür sie im Text verwendet wird.
+- Quellen, die thematisch nicht passen, werden verworfen statt mitgeschleppt.
+- Wenn eine URL in mehreren Posts auftaucht, muss das inhaltlich sauber begründet sein.
+
 ### Empfohlene Struktur
 1. **Titel**
 2. **Presseschau / Kurzüberblick**
@@ -30,7 +35,7 @@ Jedes recherchierte Thema wird als eigener Blogpost ausgearbeitet. Die Tonalitä
 ## Mindestanforderungen pro Beitrag
 - Titel
 - Zusammenfassung / Presseschau
-- Links auf Originalquellen
+- Links auf Originalquellen mit kurzer Rollen-Notiz
 - Zusatzrecherche mit Kontext
 - Relevanzbegründung
 - Wenn vorhanden: Bilder, Daten, Tabellen oder Diagramme

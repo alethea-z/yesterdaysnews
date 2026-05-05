@@ -33,6 +33,9 @@ Bewerte jedes Thema entlang von:
 - Wenn ein Thema älter ist, erweitere es zu einer zeitlichen Entwicklung oder belastbaren Einordnung.
 - Wenn ein Ereignis fern ist, belege die Relevanz für Leipzig und den jeweiligen Raum.
 - Wenn mehrere kleine Fälle ein Muster bilden, erkläre das mit Quellen und Fakten.
+- Jede Quellenangabe muss im Quellenblock mit einer kurzen Relevanz-Notiz versehen sein, damit der Bezug zum Thema klar bleibt.
+- Reuse von URLs über Posts hinweg nur dann, wenn es wirklich dieselbe Quelle für dasselbe Thema ist.
+- Vor Commit und Push `python3 scripts/source_lint.py` ausführen und alle harten Fehler beheben; Warnungen bewusst prüfen.
 
 ## Output pro Thema
 - Titel
