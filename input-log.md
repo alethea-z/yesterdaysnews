@@ -7,3 +7,4 @@
 | 2026-05-05 | GitHub-Repo für `yesterdaysnews` erstellt, initiale Hello-World-Seite gepusht und GitHub Pages aktiviert. | Öffentliche Veröffentlichung ist jetzt unter `https://alethea-z.github.io/yesterdaysnews/` erreichbar. |
 | 2026-05-05 | Hugo-Struktur mit `site/`, Journal-Section, Tags und Startseite für nur neue Einträge angelegt. | Der Blog-/Journal-MVP hat jetzt eine saubere Quellstruktur für tägliche Beiträge. |
 | 2026-05-05 | Build auf GitHub Actions umgestellt; Pages-Quelle steht jetzt auf `workflow`. | Der HTML-Build passiert nicht mehr lokal, sondern im GitHub-Workflow. |
+| 2026-05-05 | Theme `hugo-theme-stack` als Git-Submodule eingebunden und Hugo-Konfiguration darauf ausgerichtet. | Das Projekt nutzt jetzt Stack als visuelles und strukturelles Blog-Theme. |

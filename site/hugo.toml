@@ -1,6 +1,7 @@
 baseURL = "https://alethea-z.github.io/yesterdaysnews/"
 languageCode = "de-de"
 title = "yesterdaysnews"
+theme = "hugo-theme-stack"
 enableRobotsTXT = true
 
 [pagination]
@@ -11,13 +12,16 @@ enableRobotsTXT = true
 
 [params]
   description = "Kuratierte Nachrichten: langsam, quellenbasiert, mit Tags und Journal."
+  mainSections = ["journal"]
 
-[[menu.main]]
-  name = "Start"
-  url = "/"
-  weight = 10
+[menu]
 
-[[menu.main]]
-  name = "Journal"
-  url = "/journal/"
-  weight = 20
+  [[menu.main]]
+    name = "Start"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Journal"
+    url = "/journal/"
+    weight = 20
