@@ -8,6 +8,7 @@ Projektordner für die laufende Anforderungsanalyse und den statischen MVP.
 - Statische Website als MVP
 - Veröffentlichung bevorzugt über GitHub Pages
 - Erzeugung mit Hugo oder einem ähnlichen statischen Generator
+- Typischer Blog mit Tags und Journal-Archiv
 
 ## Pflege
 - Neuer Input zuerst in `input-log.md`
@@ -18,4 +19,5 @@ Projektordner für die laufende Anforderungsanalyse und den statischen MVP.
 ## Ordnerstruktur
 - `criteria/` – pflegbare Relevanz- und Formatkriterien
 - `automation/` – Jobdefinitionen und Workflow-Notizen
+- `site/` – Hugo-Quellcode für Blog, Journal und Tags
 - `content/` – vorbereitete Inhalte für die Website (später Hugo)

@@ -1,0 +1,21 @@
+baseURL = "https://alethea-z.github.io/yesterdaysnews/"
+languageCode = "de-de"
+title = "yesterdaysnews"
+enableRobotsTXT = true
+paginate = 10
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  description = "Kuratierte Nachrichten: langsam, quellenbasiert, mit Tags und Journal."
+
+[[menu.main]]
+  name = "Start"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Journal"
+  url = "/journal/"
+  weight = 20
