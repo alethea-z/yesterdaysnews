@@ -6,3 +6,4 @@
 | 2026-05-05 | MVP-Workflow: statische Website mit Hugo/GitHub Pages, täglicher Recherche-Job um 03:00 Uhr für 10 Beiträge, Relevanzkriterien als Markdown-Sammlung in separatem Ordner. | Architektur, Workflow, Kriterienstruktur und Automatisierung in `requirements.md`, `criteria/`, `automation/` und Cron-Job abgebildet. |
 | 2026-05-05 | GitHub-Repo für `yesterdaysnews` erstellt, initiale Hello-World-Seite gepusht und GitHub Pages aktiviert. | Öffentliche Veröffentlichung ist jetzt unter `https://alethea-z.github.io/yesterdaysnews/` erreichbar. |
 | 2026-05-05 | Hugo-Struktur mit `site/`, Journal-Section, Tags und Startseite für nur neue Einträge angelegt. | Der Blog-/Journal-MVP hat jetzt eine saubere Quellstruktur für tägliche Beiträge. |
+| 2026-05-05 | Build auf GitHub Actions umgestellt; Pages-Quelle steht jetzt auf `workflow`. | Der HTML-Build passiert nicht mehr lokal, sondern im GitHub-Workflow. |
