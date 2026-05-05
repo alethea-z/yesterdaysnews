@@ -2,6 +2,7 @@
 title: "Hello World"
 date: 2026-05-05T03:00:00+02:00
 tags: ["mvp", "setup"]
+categories: ["intro"]
 summary: "Erster Platzhalterbeitrag für die neue Blog-Struktur."
 ---
 
