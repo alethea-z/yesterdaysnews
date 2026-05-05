@@ -1,5 +1,5 @@
 ---
-title: "Deutschland wächst leicht, doch die 3-Millionen-Marke bei der Arbeitslosigkeit bleibt ein schlechtes Signal"
+title: "Deutschland: Leichtes Wachstum bei Arbeitslosigkeit über 3 Millionen"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
 description: "Das Q1-Wachstum klingt freundlich, verdeckt aber einen Arbeitsmarkt, der weiter unter Druck steht."

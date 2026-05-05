@@ -1,5 +1,5 @@
 ---
-title: "Leipzig nach dem Rammangriff: Was die Stadt jetzt wirklich braucht"
+title: "Leipzig: Ermittlungen nach Angriff in der Innenstadt"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
 description: "Der Angriff in Leipzig ist nicht nur ein Polizeithema, sondern ein Test für Krisenkommunikation, Raumgestaltung und Einsatzbereitschaft in dicht genutzten Innenstädten."

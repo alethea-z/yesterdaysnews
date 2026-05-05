@@ -1,5 +1,5 @@
 ---
-title: "Deutsche Post wird DHL: Ein Namenswechsel mit mehr Substanz als Folklore"
+title: "Deutsche Post und DHL: Konzernauftritt wird vereinheitlicht"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
 description: "Die formale Umbenennung spiegelt einen Konzern wider, der längst globaler Logistikanbieter ist als klassische Postgesellschaft."

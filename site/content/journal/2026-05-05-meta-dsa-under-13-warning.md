@@ -1,5 +1,5 @@
 ---
-title: "Meta und die Unter-13s: Warum die DSA-Ansage in Europa mehr ist als Kinder- und Jugendschutz"
+title: "Meta: EU rügt Schutz von Minderjährigen auf Facebook und Instagram"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
 description: "Die EU rügt Meta wegen unzureichender Schutzmaßnahmen für Minderjährige. Das betrifft Plattformdesign, Altersprüfung und Haftungsdruck."

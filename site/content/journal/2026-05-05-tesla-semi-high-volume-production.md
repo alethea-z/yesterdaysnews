@@ -1,5 +1,5 @@
 ---
-title: "Tesla Semi geht in die Serienphase: Warum das für Europas Transportbranche trotzdem zählt"
+title: "Tesla Semi erreicht die Serienproduktion"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
 description: "Die erste Semi-Auslieferung aus der Hochvolumenproduktion ist ein Signal für E-Lkw, Batterielogistik und Flottenstrategien."

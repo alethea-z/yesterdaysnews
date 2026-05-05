@@ -1,5 +1,5 @@
 ---
-title: "EU warnt vor Huawei und ZTE: Warum Netzsicherheit wieder Industriepolitik ist"
+title: "EU warnt vor Huawei und ZTE in der Netzinfrastruktur"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
 description: "Die neue Warnung aus Brüssel betrifft nicht nur Mobilfunk, sondern die Frage, wem Europas kritische Konnektivität gehört."
