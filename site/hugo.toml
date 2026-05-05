@@ -2,7 +2,9 @@ baseURL = "https://alethea-z.github.io/yesterdaysnews/"
 languageCode = "de-de"
 title = "yesterdaysnews"
 enableRobotsTXT = true
-paginate = 10
+
+[pagination]
+  pagerSize = 10
 
 [taxonomies]
   tag = "tags"
