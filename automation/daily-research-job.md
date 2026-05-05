@@ -4,7 +4,7 @@
 Tägliche Recherche um 03:00 Uhr für **yesterdaysnews**.
 
 ## Ziel
-- 10 relevante Beiträge erarbeiten
+- 10 relevante Blogposts erarbeiten, je Thema genau ein Beitrag
 - Relevanz gegen die Markdown-Kriterien prüfen
 - Inhalte für die statische Website vorbereiten
 
@@ -32,23 +32,28 @@ Jeder potenzielle Treffer wird gegen drei Hauptkriterien geprüft:
    - Soziale Themen mit Bezug zu aktuellen Veränderungen in der Welt
 
 ## Arbeitsauftrag
-1. Relevante Nachrichten recherchieren.
-2. Pro Thema Vorgeschichte und Kontext mitprüfen.
-3. Für ältere Themen nach Trends, Chronologien und langfristigen Erkenntnissen suchen.
-4. Für fernere Ereignisse die Tragweite klar belegen.
-5. Wenn möglich, ähnliche lokale Kleinereignisse vergleichen.
-6. 10 Beiträge auswählen, die das Kernkriterium erfüllen.
-7. Die Ergebnisse als Markdown-Journal-Einträge vorbereiten.
-8. Jeden Eintrag mit passenden Tags und ggf. Kategorien versehen.
-9. Die Inhalte in `site/content/journal/` ablegen.
+1. Relevante Themen recherchieren.
+2. Pro Thema eine Presseschau mit Originalquellen erstellen.
+3. Pro Thema zusätzliche Hintergründe, Kontext und Detailrecherche sammeln.
+4. Bei älteren Themen nach Trends, Chronologien und langfristigen Erkenntnissen suchen.
+5. Für fernere Ereignisse die Tragweite klar belegen.
+6. Wenn möglich, ähnliche lokale Kleinereignisse vergleichen.
+7. Pro Thema eine kritische und möglichst objektive Analyse schreiben.
+8. Falls sinnvoll, Bilder, Daten, Tabellen oder Diagramme ergänzen.
+9. Eine kurze Relevanzbegründung formulieren.
+10. 10 Beiträge auswählen, die das Kernkriterium erfüllen.
+11. Die Ergebnisse als Markdown-Journal-Einträge mit der Standardgliederung vorbereiten.
+12. Jeden Eintrag mit passenden Tags und ggf. Kategorien versehen.
+13. Die Inhalte in `site/content/journal/` ablegen.
 
 ## Ausgaberegeln
-- Eintrag pro Beitrag
+- Ein Beitrag pro Thema / Blogpost
 - Titel
-- Kurzfazit
-- Warum relevant
-- Originalquelle
-- Optional: Hintergrund / Kontext / Zeitverlauf
+- Presseschau mit Links auf möglichst Originalquellen
+- Hintergrund und Detailrecherche
+- Kritische, objektive Analyse
+- Bilder, Daten, Tabellen oder Diagramme, wenn sinnvoll
+- Kurze Relevanzbegründung am Ende
 - Wenn das Thema älter ist: verallgemeinernde Zusammenfassung statt bloßer Meldung
 
 ## Status

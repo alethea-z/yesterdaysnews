@@ -32,6 +32,8 @@
 - Neue Beiträge werden als Hugo-kompatible Journal-Einträge mit Tags angelegt.
 - Die Startseite zeigt nur die neuesten Beiträge, das Journal enthält den vollständigen Verlauf.
 - Relevanzprüfungen sollen die drei Hauptachsen explizit behandeln: Zeit, Ort/Tragweite und Fachthema.
+- Jeder recherchierte Themenkomplex wird als eigener Blogpost ausgearbeitet.
+- Jeder Blogpost enthält Presseschau, Detailrecherche, Analyse, visuelle Elemente soweit sinnvoll und eine Relevanzbegründung.
 - Bei älteren Themen sollen Verallgemeinerungen oder Zeitverläufe nur mit Quellen, Fakten oder mehreren Beispielen erfolgen.
 - Die Recherche kann zunächst als Platzhalter oder Entwurf laufen; der Schwerpunkt liegt auf einem sauberen, automatisierbaren Ablauf.
 
