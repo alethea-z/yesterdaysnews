@@ -9,3 +9,4 @@
 | 2026-05-05 | Hugo-Quellstruktur liegt getrennt unter `site/`, mit `journal/` als Archiv und Tags für thematische Strukturierung. | Saubere Trennung von Quelle, Journal und künftiger Build-Ausgabe. | User-Input + lokale Projektstruktur |
 | 2026-05-05 | Der eigentliche Hugo-Build läuft jetzt auf GitHub Actions; GitHub Pages wird über den Workflow veröffentlicht. | Kein lokaler Build im Repo nötig, klarer CI/CD-Pfad. | GitHub Actions Workflow `/.github/workflows/hugo-pages.yml` |
 | 2026-05-05 | `hugo-theme-stack` ist das verwendete Theme und wird als Git-Submodule eingebunden. | Der MVP erhält direkt ein passendes Blog-Theme mit Tags und Journal-Charakter. | Git Submodule + Hugo-Konfiguration |
+| 2026-05-05 | Der GitHub-Actions-Build nutzt die aktuelle Hugo-Version (`latest`). | Das Theme benötigt eine neuere Hugo-API als die zuvor gepinnten Versionen. | GitHub Actions Workflow `/.github/workflows/hugo-pages.yml` |
