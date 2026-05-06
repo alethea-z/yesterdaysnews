@@ -17,3 +17,4 @@
 | 2026-05-06 | Zwei bestehende Journal-Posts wurden auf belastbarere bzw. thematisch deutlichere Quellenbezüge nachgeschärft. | Der Quellenlinter ist ruhiger geworden, und die Posts sind sauberer eingeordnet. |
 | 2026-05-06 | Die Nightly-Agent-Anweisung verlangt jetzt feste Diagnosefelder (`PHASE`, `STATUS`, `CAUSE`, `URL`/`FILE`, `NEXT`). | Fehlerausgaben werden dadurch deutlich besser analysierbar. |
 | 2026-05-06 | Die aktiven yesterdaysnews-Configs wurden auf verbliebene `@heartbeat`-Zielpfade geprüft; dort sind keine mehr vorhanden. | Der frühere Zielpfadfehler war kein aktueller yesterdaysnews-Fix mehr, sondern ein historischer Artefaktbefund. |
+| 2026-05-06 | Nutzerwunsch: `yesterdaysnews` vorerst pausieren, den aktuellen Stand dokumentieren und später an exakt derselben Stelle weiterarbeiten. | Die gelöschten Journal-Posts bleiben als Git-Stand erhalten; die offene Arbeit liegt jetzt in den Projektnotizen und der Auswertung des Nightly-Fehlers. |
