@@ -58,6 +58,7 @@ Bewerte jedes Thema entlang von:
 - Wenn ein Ereignis fern ist, belege die Relevanz für Leipzig und den jeweiligen Raum.
 - Wenn mehrere kleine Fälle ein Muster bilden, erkläre das mit Quellen und Fakten.
 - Prüfe Zahlen, Fristen, Vergleichswerte und Gegenbeispiele aktiv gegen die Quellen.
+- Wenn eine Meldung Produktionsreife, Marktreife oder eine eindeutige Ursache behauptet, validiere diese Behauptung zusätzlich gegen externe Kriterien, Gegenbeispiele und mindestens eine alternative Erklärung.
 - Jede Quellenangabe muss im Quellenblock mit einer kurzen Relevanz-Notiz versehen sein, damit der Bezug zum Thema klar bleibt.
 - Die Presseschau muss unterschiedliche Quellenrollen sichtbar machen:
   - Quelle A meldet

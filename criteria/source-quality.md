@@ -33,8 +33,14 @@ Die Zusatzrecherche soll dann gezielt **neue Quellen** suchen, nicht nur die Ori
 - ob sich Wahrnehmung oder Wirkung nach Region, Zielgruppe oder Institution unterscheiden,
 - ob es Gegenbeispiele oder Gegenpositionen gibt,
 - ob Zahlen, Fristen und Vergleichswerte die Ausgangsthese wirklich tragen.
-Wenn möglich, sollen dabei zusätzlich mindestens eine Primärquelle und eine unabhängige Vergleichs- oder Kontextquelle eingebunden werden.
-Wenn nur eine Quelle verfügbar ist, muss das offen gesagt werden; dann darf nicht so getan werden, als gäbe es bereits ein breites Quellenbild.
+
+Wenn eine Meldung eine **Marktreife-, Produktionsreife- oder KI-Primärursache** behauptet, muss die Recherche zusätzlich unabhängig prüfen:
+- Welche externen Kriterien sprechen überhaupt für Produktionsreife?
+- Welche Kriterien sprechen eher für Pilot, Demo oder kontrollierten Start?
+- Welche wirtschaftlichen Daten, Governance-Artefakte, Monitoring-Mechanismen oder Gegenbeispiele stützen oder widerlegen die Behauptung?
+- Welche alternative Ursache ist mindestens genauso plausibel?
+
+Wenn möglich, sollen dabei zusätzlich mindestens eine Primärquelle und eine unabhängige Vergleichs- oder Kontextquelle eingebunden werden. Wenn nur eine Quelle verfügbar ist, muss das offen gesagt werden; dann darf nicht so getan werden, als gäbe es bereits ein breites Quellenbild.
 
 ## Weniger geeignet
 - Reine Aggregatoren ohne eigene Einordnung
@@ -42,3 +48,4 @@ Wenn nur eine Quelle verfügbar ist, muss das offen gesagt werden; dann darf nic
 - Inhalte, die nur auf soziale Aufmerksamkeit optimiert sind
 - Ein einzelner Reuters-Artikel als alleiniger Startpunkt, wenn offizielle oder fachlich stärkere Quellen verfügbar sind
 - Generische Investor-Relations-Startseiten ohne direkten Bezug zur Meldung; sie taugen höchstens als Navigationshilfe, nicht als eigentliche Quelle
+- Behauptungen wie „KI war die Ursache“ oder „das Produkt ist produktionsreif“ ohne unabhängigen Prüfrahmen, Gegenquelle oder überprüfbare Kennzahlen

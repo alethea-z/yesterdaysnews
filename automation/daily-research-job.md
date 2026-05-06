@@ -51,7 +51,8 @@ Jeder potenzielle Treffer wird gegen vier Hauptkriterien geprüft:
 11. Für fernere Ereignisse die Tragweite klar belegen.
 12. Wenn möglich, ähnliche lokale Kleinereignisse vergleichen.
 13. Zahlen, Fristen, Vergleichswerte und Gegenbeispiele explizit prüfen und in die Argumentation einbauen.
-14. Pro Thema eine kritische und möglichst objektive Analyse schreiben.
+14. Wenn eine Meldung Produktionsreife, Marktreife oder eine eindeutige Ursache behauptet, zusätzlich mit externen Kriterien, Gegenbeispielen und mindestens einer alternativen Erklärung validieren.
+15. Pro Thema eine kritische und möglichst objektive Analyse schreiben.
 15. Die Schlussfolgerung am Ende der Analyse klar mit der Ausgangsfrage verknüpfen.
 16. Falls sinnvoll, Bilder, Daten, Tabellen oder Diagramme ergänzen.
 17. Eine kurze Relevanzbegründung formulieren, die auf einen konkreten Mechanismus verweist.
