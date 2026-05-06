@@ -11,8 +11,8 @@ summary: "Anthropic erweitert den KI-Einsatz im Finanzsektor mit spezialisierten
 ## Presseschau
 
 - **Reuters** berichtet, dass Anthropic seinen Finanzvorstoß mit **10 neuen KI-Agenten** für Banken und Versicherer ausbaut.
-- Der Fokus liegt auf spezialisierten Workflows statt generischer Chatfunktion.
-- Der Finanzsektor bleibt damit ein Hauptfeld für produktive KI mit hohen Anforderungen an Vertrauen und Kontrolle.
+- **Bloomberg** ergänzt, dass die neuen Agenten etwa Pitch-Decks entwerfen, Finanzberichte prüfen und Compliance-Fälle weiterleiten sollen.
+- Die Meldung verschiebt den Blick von allgemeiner Chat-KI zu spezialisierten Arbeitswerkzeugen für regulierte Prozesse.
 
 ## Hintergründe und Detailrecherche
 
@@ -24,7 +24,7 @@ Agenten passen gut in diese Welt, weil sie Aufgabenketten strukturieren können.
 
 Der Schritt von Anthropic ist strategisch klug: Der Finanzbereich zahlt gut, hat hohen Automationsdruck und verlangt gleichzeitig klare Kontrollmechanismen. Wer dort Fuß fasst, schafft Referenzen für andere regulierte Branchen.
 
-Für deutsche Firmen ist das relevant, weil sich die Frage verschiebt: nicht mehr „ob KI“, sondern „welcher Agent für welchen Prozess und mit welcher Kontrolle“.
+Für Michaels Arbeit ist das relevant, weil KI-Agenten in regulierten Prozessen nicht nur Funktionen, sondern Freigaben, Audit-Trails und Verantwortungsketten brauchen.
 
 ## Bilder, Daten, Tabellen oder Diagramme
 
@@ -40,4 +40,5 @@ Der Bericht ist ein gutes Beispiel dafür, wie sich der KI-Markt weiter segmenti
 
 ## Quellen
 
-1. Reuters: [Anthropic deepens finance push with 10 new AI agents for banks, insurers](https://www.reuters.com/business/finance/anthropic-deepens-finance-push-with-10-new-ai-agents-banks-insurers-2026-05-05/) — belegt die Produktstrategie im Finanzsektor.
+1. Reuters: [Anthropic deepens finance push with 10 new AI agents for banks, insurers](https://www.reuters.com/business/finance/anthropic-deepens-finance-push-with-10-new-ai-agents-banks-insurers-2026-05-05/) — belegt die Produktankündigung im Finanzsektor.
+2. Bloomberg: [Anthropic Unveils AI Agents to Field Financial Services Tasks](https://www.bloomberg.com/news/articles/2026-05-05/anthropic-unveils-ai-agents-to-field-financial-services-tasks?srnd=homepage-europe) — ergänzt die konkrete Funktionsbeschreibung der neuen Agenten.

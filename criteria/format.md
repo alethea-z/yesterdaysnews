@@ -14,11 +14,14 @@ Jedes recherchierte Thema wird als eigener Blogpost ausgearbeitet. Die Tonalitä
 - Jede Quelle im Quellenblock bekommt eine kurze Notiz, wofür sie im Text verwendet wird.
 - Quellen, die thematisch nicht passen, werden verworfen statt mitgeschleppt.
 - Wenn eine URL in mehreren Posts auftaucht, muss das inhaltlich sauber begründet sein.
+- Die Presseschau soll mehrere Quellen zum gleichen Thema sinngemäß zusammenfassen, nicht bloß einen Reuters-Artikel umformulieren.
 
 ### Empfohlene Struktur
 1. **Titel**
 2. **Presseschau / Kurzüberblick**
-   - knappe Zusammenfassung der wichtigsten Inhalte
+   - 2 bis 4 Quellen mit klar unterschiedlicher Rolle
+   - jede Quelle in einem eigenen Satz oder Bullet sinngemäß zusammengefasst
+   - Beispiele: „Quelle A meldet ...“, „Quelle B ergänzt ...“, „Quelle C ordnet ein ...“
    - konkrete Links auf möglichst die Originalquellen
 3. **Hintergründe und Detailrecherche**
    - zusätzliche Fakten, Kontext, Chronologie
@@ -27,10 +30,13 @@ Jedes recherchierte Thema wird als eigener Blogpost ausgearbeitet. Die Tonalitä
    - kritisch reflektiert
    - möglichst objektiv und ohne Hype
    - Hinweise auf Unsicherheiten, offene Fragen oder Gegenpositionen
+   - hier ausdrücklich die Wirkung auf Michaels Arbeit, Projekte oder Alltag benennen, wenn sie belegt ist
 5. **Visualisierung**
    - Bilder, Daten, Tabellen oder Diagramme, wenn sinnvoll und belegbar
 6. **Relevanzbegründung**
-   - kurze Erläuterung, warum der Eintrag die Relevanzkriterien erfüllt
+   - kurz, konkret und mechanistisch begründet
+   - keine Allgemeinplätze wie „in Leipzig trifft sich Industrie und Forschung“
+   - stattdessen: Welche Entscheidung, welcher Prozess oder welches Risiko trifft Michael oder seine Arbeitsfelder?
 
 ## Mindestanforderungen pro Beitrag
 - Titel

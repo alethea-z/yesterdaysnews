@@ -11,8 +11,8 @@ summary: "Der Stellenabbau bei Freshworks ist ein frühes Zeichen dafür, wie st
 ## Presseschau
 
 - **Reuters** meldet, dass Freshworks rund **11 Prozent** der Belegschaft abbaut.
-- Als Begründung nennt das Unternehmen die Umstellung der Branche durch KI und den Wunsch, Kosten zu senken.
-- Der Fall steht für einen breiteren Umbau von Softwarefirmen, die Produktivität versprechen, aber selbst unter Rationalisierungsdruck geraten.
+- **The Economic Times** ergänzt, dass das Unternehmen rund 500 Stellen streicht, den Umsatz im Quartal gesteigert hat und mit einmaligen Restrukturierungskosten rechnet.
+- Die Meldung zeigt, dass KI im SaaS-Markt nicht nur Produkte, sondern auch Personal- und Kostenstrukturen verschiebt.
 
 ## Hintergründe und Detailrecherche
 
@@ -27,7 +27,7 @@ Für die Branche ist das ein nüchterner Realitätscheck:
 - SaaS-Anbieter müssen schneller zwischen Produktversprechen und interner Kostenstruktur balancieren.
 - Investoren schauen weniger auf Vision und mehr auf nachweisbare Effizienzgewinne.
 
-Für Leipzig ist das relevant, weil in der Region viele kleine und mittlere Software- und IT-Teams genau solche Produktivitätsfragen adressieren. Was in den USA als Kostenmaßnahme beginnt, landet hier als Planungsdruck in Projekten und Teams.
+Für SaaS-Teams ist das ein direktes Signal, dass KI nicht nur Features liefert, sondern auch Support, Engineering und Management-Layer unter Rechtfertigungsdruck setzt.
 
 ## Bilder, Daten, Tabellen oder Diagramme
 
@@ -43,4 +43,5 @@ Die Meldung ist kein Börsenrauschen, sondern ein Hinweis auf einen tieferen Wan
 
 ## Quellen
 
-1. Reuters: [Freshworks to cut 11% jobs as AI reshapes software industry](https://www.reuters.com/business/freshworks-cut-11-jobs-ai-reshapes-software-sector-2026-05-05/) — belegt den konkreten Stellenabbau.
+1. Reuters: [Freshworks to cut 11% jobs as AI reshapes software industry](https://www.reuters.com/business/freshworks-cut-11-jobs-ai-reshapes-software-sector-2026-05-05/) — belegt den Stellenabbau und den KI-Bezug.
+2. The Economic Times: [Freshworks cuts 500 jobs; Q1 revenue hits $228 million](https://m.economictimes.com/tech/technology/freshworks-cuts-500-jobs-q1-revenue-hits-228-million/articleshow/130841734.cms) — ergänzt Umsatz, Größenordnung und Restrukturierungskosten.

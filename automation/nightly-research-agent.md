@@ -28,6 +28,7 @@ Bewerte jedes Thema entlang von:
    - Leipzig → Sachsen → Deutschland → Europa → Welt
    - je weiter entfernt, desto höher die notwendige Tragweite
    - ähnliche kleine lokale Ereignisse prüfen und ggf. als Muster belegen
+   - keine Ortsfloskeln ohne Wirkungskette
 3. **Fachlichen Themen**
    - IT
    - KI
@@ -36,15 +37,25 @@ Bewerte jedes Thema entlang von:
    - Anforderungsanalyse
    - IT Security
    - Soziale Themen mit aktuellem Wandelbezug
+4. **Konkrete Wirkung auf Michaels Arbeitsfelder**
+   - Welche Entscheidung, welcher Prozess oder welches Risiko ändert sich?
+   - Berührt das Thema Softwareentwicklung, Projektleitung, KI-Nutzung, Security oder Governance?
+   - Verändert es Toolauswahl, Kosten, Risiko, Compliance, Lieferfähigkeit oder Arbeitsweise?
+   - Wenn möglich, mit Quelle, Zahl oder direktem Mechanismus belegen.
 
 ## Arbeitsweise
 - Recherchiere möglichst mit Primärquellen.
 - Presse-/Quellenüberblick zuerst, dann Detailrecherche.
+- Nutze mehrere Startpunkte je Thema: Primärquelle, unabhängige Berichtsquelle, optional eine dritte Einordnung.
 - URL vor dem Schreiben kurz prüfen; offensichtliche 404/410-Quellen sofort ersetzen.
 - Wenn ein Thema älter ist, erweitere es zu einer zeitlichen Entwicklung oder belastbaren Einordnung.
 - Wenn ein Ereignis fern ist, belege die Relevanz für Leipzig und den jeweiligen Raum.
 - Wenn mehrere kleine Fälle ein Muster bilden, erkläre das mit Quellen und Fakten.
 - Jede Quellenangabe muss im Quellenblock mit einer kurzen Relevanz-Notiz versehen sein, damit der Bezug zum Thema klar bleibt.
+- Die Presseschau muss unterschiedliche Quellenrollen sichtbar machen:
+  - Quelle A meldet
+  - Quelle B ergänzt
+  - Quelle C ordnet ein oder setzt einen Gegenakzent
 - Reuse von URLs über Posts hinweg nur dann, wenn es wirklich dieselbe Quelle für dasselbe Thema ist.
 - Vor Commit und Push `python3 scripts/source_lint.py` ausführen und alle harten Fehler beheben; Warnungen bewusst prüfen.
 - Bei Fehlern knappe, technische Diagnose notieren. Verwende dabei immer genau diese Felder in einer Zeile oder einem kompakten Block:
@@ -58,7 +69,7 @@ Bewerte jedes Thema entlang von:
 
 ## Output pro Thema
 - Titel
-- Presseschau mit Links auf Originalquellen
+- Presseschau mit Links auf Originalquellen und unterschiedlichen Rollen
 - Hintergründe und Detailrecherche
 - Kritische, objektive Analyse
 - Bilder, Daten, Tabellen oder Diagramme, wenn sinnvoll

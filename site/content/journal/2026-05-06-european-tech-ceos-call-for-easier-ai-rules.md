@@ -32,7 +32,7 @@ Für Produktteams ist das praktisch:
 - Wer KI einkauft, braucht klare Vertrags- und Compliance-Bausteine.
 - Wer Open-Source-Modelle nutzt, braucht Regeln, die nicht nur Frontier-Player, sondern auch kleinere Teams realistisch erfüllen können.
 
-Für Leipzig ist das relevant, weil sich hier genau die Mischung aus Software, Industrie, Forschung und kommunaler Digitalisierung trifft, die von verständlichen KI-Regeln profitiert. Unklare Regulierung trifft nicht nur Konzerne. Sie trifft vor allem Teams, die schnell liefern müssen und nicht die Zeit für juristische Exkursionen haben.
+Für Michaels Projektarbeit ist das relevant, weil unklare KI-Regeln direkt auf Dokumentation, Vertragsprüfung, Tool-Auswahl und Liefergeschwindigkeit durchschlagen.
 
 ## Bilder, Daten, Tabellen oder Diagramme
 

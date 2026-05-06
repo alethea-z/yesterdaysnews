@@ -11,8 +11,8 @@ summary: "Meta treibt die nächste Phase von KI-Assistenten voran: personalisier
 ## Presseschau
 
 - **Reuters** berichtet, Meta arbeite an einem stark personalisierten **agentischen KI-Assistenten**.
-- Der Assistent soll nicht nur antworten, sondern stärker Aufgaben übernehmen und sich an Nutzergewohnheiten anpassen.
-- Das passt zu einem breiteren Trend: KI wandert von der Oberfläche in die aktive Ausführung.
+- Die **Financial Times** beschreibt den Plan als hochgradig personalisierten Assistenten, intern gestützt auf das neue Modell Muse Spark.
+- **TechCrunch** ordnet Metas laufende Produktstrategie ein und verweist darauf, dass Meta KI bereits stärker in seine Business- und Messaging-Produkte einbettet.
 
 ## Hintergründe und Detailrecherche
 
@@ -29,7 +29,7 @@ Für Nutzer bedeutet das aber auch:
 - mehr Lock-in,
 - mehr Abhängigkeit von Plattformlogik.
 
-Für Leipzig ist das kein fernes Meta-Thema. Solche Assistenten landen am Ende in Messenger-Apps, im Arbeitsalltag, im Studium und in Familienkommunikation. Dort entscheidet sich, ob KI hilfreich oder übergriffig wirkt.
+Für Michaels Alltag ist das relevant, weil solche Assistenten in denselben Messenger-Kanälen auftauchen, in denen private, familiäre und berufliche Kommunikation ohnehin zusammenlaufen.
 
 ## Bilder, Daten, Tabellen oder Diagramme
 
@@ -46,3 +46,5 @@ Der Schritt von „Antwortmaschine“ zu „ausführendem Assistenten“ ist ein
 ## Quellen
 
 1. Reuters: [Meta plans advanced 'agentic' AI assistant for users, FT reports](https://www.reuters.com/business/meta-plans-advanced-agentic-ai-assistant-users-ft-reports-2026-05-05/) — beschreibt den geplanten Assistenten.
+2. Financial Times: [Meta plans advanced 'agentic' AI assistant for consumers](https://www.ft.com/content/5b48360c-53f2-444a-80a8-f7034750fd62) — liefert den Ursprung der Meldung und den Produktkontext.
+3. TechCrunch: [Meta says its business AI now facilitates 10 million conversations a week](https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/) — zeigt, wie Meta KI bereits produktiv in bestehende Produkte integriert.

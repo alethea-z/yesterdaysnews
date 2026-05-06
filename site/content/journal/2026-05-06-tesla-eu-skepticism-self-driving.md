@@ -11,8 +11,8 @@ summary: "Tesla will FSD in Europa voranbringen, doch die regulatorische Skepsis
 ## Presseschau
 
 - **Reuters** berichtet, dass Tesla in Europa weiterhin auf deutliche Skepsis bei automatisierter Fahrtechnik stößt.
-- Regulatoren äußern Zweifel an Sicherheitsbehauptungen und an der Geschwindigkeit, mit der FSD zugelassen werden sollte.
-- Der Fall zeigt, dass technische Demo-Stärke nicht automatisch regulatorisches Vertrauen erzeugt.
+- Die niederländische Behörde **RDW** bestätigt die vorläufige Typgenehmigung, betont aber zugleich, dass FSD Supervised kein autonomes Fahren ist.
+- **Electrek** ergänzt, dass mehrere europäische Regulierer genau die Sicherheitsfragen diskutieren, die Tesla für die EU-Freigabe überwinden muss.
 
 ## Hintergründe und Detailrecherche
 
@@ -40,4 +40,6 @@ Das Thema betrifft weit mehr als Tesla. Es zeigt, wie Europa bei sicherheitskrit
 
 ## Quellen
 
-1. Reuters: [Tesla faces EU skepticism over automated-driving tech, records show](https://www.reuters.com/business/autos-transportation/tesla-faces-eu-skepticism-over-automated-driving-tech-records-show-2026-05-05/) — belegt die regulatorische Zurückhaltung.
+1. Reuters: [Tesla faces EU skepticism over automated-driving tech, records show](https://www.reuters.com/business/autos-transportation/tesla-faces-eu-skepticism-over-automated-driving-tech-records-show-2026-05-05/) — belegt die Skepsis europäischer Behörden.
+2. RDW: [RDW explanation of European type approval Tesla with provisional validity in the Netherlands](https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands) — ist die Primärquelle zur niederländischen Typgenehmigung.
+3. Electrek: [Tesla 'FSD' faces EU regulator skepticism over speeding, safety concerns](https://electrek.co/2026/05/05/tesla-fsd-eu-regulators-skepticism-speeding-approval/) — ergänzt die konkreten Sicherheitsfragen der Regulierer.

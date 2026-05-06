@@ -27,7 +27,7 @@ Für Unternehmen ist das doppelt relevant:
 1. **Regulatorisch**: Wer Cloud- oder KI-Dienste einsetzt, muss mit mehr Aufsicht und mehr Dokumentationsanforderungen rechnen.
 2. **Strategisch**: Abhängigkeiten von einzelnen Plattformen werden politisch sichtbarer und damit riskanter.
 
-Für Leipzig und Mitteldeutschland ist das keine Brüsseler Feinheit. Rechenzentren, Softwarehäuser, Industrie und öffentliche IT hängen genau an diesen Ebenen. Je stärker Cloud und KI reguliert werden, desto wichtiger werden Architekturentscheidungen, Portabilität, Exit-Szenarien und saubere Vertragsgestaltung.
+Für Michaels Arbeit ist das unmittelbar relevant, weil Cloud-Verträge, Exit-Szenarien und Vendor-Risk-Management künftig stärker mit KI- und Infrastrukturregeln verknüpft sind.
 
 ## Bilder, Daten, Tabellen oder Diagramme
 

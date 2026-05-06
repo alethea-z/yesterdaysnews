@@ -14,6 +14,15 @@ Von nah nach fern:
 ## Grundsatz
 Je weiter entfernt das Ereignis stattgefunden hat, desto größer muss seine Tragweite sein, um für Leipzig relevant zu sein.
 
+## Wichtige Ergänzung
+Ortsnähe allein reicht nicht als Begründung.
+Sätze wie „betrifft Leipzig, weil hier Industrie und Forschung sitzen“ sind zu allgemein, wenn sie keinen Mechanismus benennen.
+
+Stattdessen muss die Begründung konkret zeigen:
+- welche Entscheidung, welcher Markt oder welcher Prozess betroffen ist
+- warum das für Michaels Arbeit, Projekte oder tägliche Techniknutzung relevant ist
+- welcher unmittelbare oder mittelfristige Effekt zu erwarten ist
+
 ## Recherchestrategie
 - Explizit prüfen, ob ähnliche kleine Ereignisse lokal an vielen Stellen im relevanten Raum auftreten.
 - Aus Einzelereignissen nicht vorschnell eine allgemeine Lage ableiten.
@@ -26,6 +35,7 @@ Je weiter entfernt das Ereignis stattgefunden hat, desto größer muss seine Tra
 - Gibt es ähnliche kleine Ereignisse an mehreren Orten?
 - Ist das ein lokaler Sonderfall oder Teil eines breiteren Trends?
 - Welche Quellen belegen die Verallgemeinerung?
+- Welche konkrete Wirkung landet am Ende bei Michael oder in seinen Arbeitsfeldern?
 
 ## Bevorzugte Fälle
 - Ereignisse mit direktem Einfluss auf Leipzig oder Sachsen
@@ -37,3 +47,4 @@ Je weiter entfernt das Ereignis stattgefunden hat, desto größer muss seine Tra
 - Fernere Ereignisse ohne nachvollziehbare Tragweite
 - Einzelvorfälle ohne übertragbaren Kontext
 - Verallgemeinerungen ohne Beleg
+- Ortsbezüge ohne klare Wirkungskette

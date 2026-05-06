@@ -11,8 +11,8 @@ summary: "Der Stellenabbau bei Coinbase zeigt, wie Unternehmen KI nicht nur in P
 ## Presseschau
 
 - **Reuters** meldet, Coinbase wolle rund **14 Prozent** seiner Belegschaft abbauen.
-- Das Unternehmen spricht von einer Umstrukturierung mit Blick auf die KI-Ära und Kostendisziplin.
-- Der Fall ist Teil einer größeren Welle von Effizienzprogrammen in technologiegetriebenen Märkten.
+- **Business Insider** veröffentlicht Auszüge aus Brian Armstrongs Brief, in dem er beschreibt, wie KI aus Tagen wieder Stunden und aus Wochen Tage machen kann.
+- **CoinDesk** ordnet die Kürzung als Mischung aus Marktdruck, Kostendisziplin und KI-getriebener Umstrukturierung ein.
 
 ## Hintergründe und Detailrecherche
 
@@ -22,12 +22,12 @@ Das ist ökonomisch unspektakulär, aber strukturell wichtig: Wenn Unternehmen i
 
 ## Analyse und Bewertung
 
-Für die Branche gilt:
+Für Projekt- und Teamplanung gilt:
 - KI ist nicht nur Umsatzchance, sondern auch Kostensignal.
 - Reorganisationen werden mit Technologieerzählungen legitimiert.
 - Beschäftigungseffekte kommen oft früher als die endgültige Produktreife.
 
-Für Leipzig und den deutschen IT-Markt ist das als Signal nützlich: Wer in digitalen Geschäftsmodellen arbeitet, muss mit stärkerem Effizienzdruck rechnen.
+Für Projekt- und Teamplanung ist das ein direktes Signal: Wenn KI Produktivität hebt, werden Personaldecks, Roadmaps und Kostenannahmen schneller angepasst.
 
 ## Bilder, Daten, Tabellen oder Diagramme
 
@@ -43,4 +43,6 @@ Das Thema ist nicht Krypto-Drama, sondern ein Blick auf den Umbau digitaler Unte
 
 ## Quellen
 
-1. Reuters: [Crypto exchange Coinbase to cut about 14% of workforce in AI-driven restructuring](https://www.reuters.com/business/world-at-work/coinbase-cut-about-14-workforce-2026-05-05/) — belegt die Umstrukturierung.
+1. Reuters: [Crypto exchange Coinbase to cut about 14% of workforce in AI-driven restructuring](https://www.reuters.com/business/world-at-work/coinbase-cut-about-14-workforce-2026-05-05/) — belegt den Umfang der Umstrukturierung.
+2. Business Insider: [Coinbase Is Laying Off 14% of Staff, Citing AI. Read the CEO's Letter.](https://www.businessinsider.com/coinbase-layoffs-ai-brian-armstrong-job-cuts-letter-2026-5) — gibt den CEO-Brief und die Begründung für das Tempo der Rationalisierung wieder.
+3. CoinDesk: [Coinbase cuts 14% of staff as AI reshapes how crypto companies operate](https://www.coindesk.com/business/2026/05/05/coinbase-cuts-14-of-staff-as-ai-reshapes-how-crypto-companies-operate) — ergänzt die operative und marktseitige Einordnung.
