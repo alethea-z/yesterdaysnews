@@ -32,6 +32,7 @@ Die Recherche soll nicht nur einzelne Nachrichten sammeln, sondern prüfen:
 - ob ein Thema schon älter ist und deshalb eine breitere Einordnung braucht
 - ob ein fernes Ereignis für Leipzig trotzdem relevant genug ist
 - ob sich aus vielen kleinen Fällen eine allgemeine Entwicklung ableiten lässt
+- ob sich die öffentliche Sicht auf das Thema über Zeit, Regionen oder Bevölkerungsgruppen unterscheidet
 - ob die Meldung Michaels relevante Arbeitsfelder tatsächlich berührt
 
 ## Bewertungsfragen

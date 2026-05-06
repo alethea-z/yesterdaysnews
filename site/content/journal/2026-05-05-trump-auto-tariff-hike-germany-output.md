@@ -3,6 +3,7 @@ title: "US-Autozölle könnten Deutschlands Industrie deutlich belasten"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
 description: "Die angekündigte Zollanhebung auf EU-Autos könnte Deutschlands Industrie deutlich belasten."
+summary: "Die angekündigten Autozölle könnten deutsche Industrie und Lieferketten spürbar belasten."
 tags: ["Autoindustrie", "Zölle", "Deutschland", "Lieferkette"]
 categories: ["journal"]
 ---
@@ -10,7 +11,7 @@ categories: ["journal"]
 ## Presseschau
 
 - **Reuters** berichtete am 2. Mai, ein geplanter Anstieg der US-Autozölle auf 25 Prozent könnte Deutschland laut Kiel Institut um fast 18 Milliarden Dollar an Output kosten.
-- Das Institut bezifferte die längerfristigen Verluste sogar noch deutlich höher.
+- Die **Kiel Institute**-Analyse legt nahe, dass die Verluste über die Autoindustrie hinaus in Lieferketten, Zulieferer und Investitionspläne ausstrahlen.
 - Die Meldung kommt in eine Phase, in der die deutsche Industrie ohnehin mit schwächerer Nachfrage und geopolitischer Unsicherheit ringt.
 
 ## Detailrecherche
@@ -38,4 +39,4 @@ Das Thema erfüllt alle drei yesterdaysnews-Achsen: zeitlich frisch, fachlich ho
 ## Quellen
 
 1. Reuters: [Trump auto tariff hike could cost Germany nearly $18 billion in output, institute says](https://www.reuters.com/world/europe/trump-auto-tariff-hike-could-cost-germany-nearly-18-billion-output-institute-2026-05-02/)
-2. Kiel Institute for the World Economy: Referenz über die Reuters-Meldung zitiert
+2. Kiel Institute for the World Economy: [US tariffs could significantly impact Europe’s automotive sector](https://www.kielinstitut.de/publications/news/kite-insta-analysis-us-tariffs-could-significantly-impact-europes-automotive-sector/)

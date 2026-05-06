@@ -15,9 +15,15 @@ summary: ""
 
 ## Hintergründe und Detailrecherche
 
-## Analyse und Bewertung
+- Das Thema zunächst grob verallgemeinern: Was ist hier die eigentliche Entwicklung, nicht nur der Einzelfall?
+- Breite Recherche zur Dauer des Themas: seit wann taucht es auf, was sind die Vorläufer, was hat sich verändert?
+- Vergleichbare Effekte in angrenzenden Bereichen prüfen: andere Branchen, ähnliche Produkte, vergleichbare Regulierungen, andere Länder oder Institutionen.
+- Unterschiedliche öffentliche Sichtweisen sammeln: Regionen Europas, Altersgruppen, Berufsgruppen, betroffene Nutzergruppen, Fachöffentlichkeit.
+- Nur dann verdichten, wenn die Verallgemeinerung durch Quellen, Daten oder mehrere Beispiele gestützt ist.
 
-- Hier den konkreten Effekt für Michaels Arbeit, Projekte oder Alltag benennen.
+## Analyse
+
+- Den konkreten Effekt für Michaels Arbeit, Projekte oder Alltag benennen.
 - Wenn ein Bezug besteht, den Mechanismus nennen: Kosten, Risiko, Compliance, Toolwahl, Lieferfähigkeit, Arbeitsweise.
 - Keine Allgemeinplätze ohne Beleg.
 

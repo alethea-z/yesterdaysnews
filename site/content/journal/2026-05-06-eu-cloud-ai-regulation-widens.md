@@ -14,20 +14,22 @@ summary: "Die EU will ihre Wettbewerbs- und Plattformregeln stärker auf Cloud-D
 - Der politische Fokus verschiebt sich damit weg von der reinen Plattformlogik hin zu Infrastruktur, Rechenleistung und Zugang zu Basisschichten der digitalen Wirtschaft.
 - Die Meldung passt in eine breitere Linie der EU, die KI-Regeln und Digitalpolitik enger mit Wettbewerbs- und Infrastrukturfragen verknüpft.
 
-## Hintergründe und Detailrecherche
+## Detailrecherche
 
-Die Entwicklung ist wichtig, weil Cloud und KI inzwischen zusammengehören. Wer KI-Systeme betreiben will, braucht nicht nur Modelle, sondern Compute, Speicher, Netzwerke, Sicherheitsmechanismen und eine belastbare Betriebsumgebung. Genau dort sitzen heute die eigentlichen Hebel für Marktmacht.
+Die Entwicklung ist nicht neu, sondern Teil einer längeren Verschiebung: Schon mit dem DMA, der DSA-Debatte und dem AI Act wurde deutlich, dass die EU digitale Macht nicht nur auf App-Ebene betrachtet. Cloud und KI ziehen diese Logik eine Stufe tiefer in die Infrastruktur.
 
-Die EU behandelt das zunehmend nicht mehr nur als abstrakte „Tech“-Frage, sondern als Infrastrukturfrage. Das passt zur breiteren EU-Linie rund um den europäischen KI-Ansatz und die jüngere Industriepolitik. Wenn wenige Anbieter den Zugang zu Cloud, Modellen und Verteilungskanälen kontrollieren, wird Innovation schnell teuer und träge.
+Wer KI-Systeme betreiben will, braucht nicht nur Modelle, sondern Compute, Speicher, Netzwerke, Sicherheitsmechanismen und eine belastbare Betriebsumgebung. Genau dort sitzen heute die eigentlichen Hebel für Marktmacht. Ähnliche Diskussionen sieht man auch bei Hyperscalern, KI-APIs, Datenzugang und Modellverteilung.
 
-## Analyse und Bewertung
+Die öffentliche Sicht darauf ist in Europa und den USA unterschiedlich: In Europa dominiert stärker das Thema Abhängigkeit, Marktöffnung und Souveränität; in den USA steht häufiger Wettbewerbsdynamik oder Skalierung im Vordergrund. Das macht den regulatorischen Konflikt nicht kleiner, aber klarer.
+
+## Analyse
 
 Für Unternehmen ist das doppelt relevant:
 
 1. **Regulatorisch**: Wer Cloud- oder KI-Dienste einsetzt, muss mit mehr Aufsicht und mehr Dokumentationsanforderungen rechnen.
 2. **Strategisch**: Abhängigkeiten von einzelnen Plattformen werden politisch sichtbarer und damit riskanter.
 
-Für Michaels Arbeit ist das unmittelbar relevant, weil Cloud-Verträge, Exit-Szenarien und Vendor-Risk-Management künftig stärker mit KI- und Infrastrukturregeln verknüpft sind.
+Für Michaels Arbeit ist das unmittelbar relevant, weil Cloud-Verträge, Exit-Szenarien und Vendor-Risk-Management künftig stärker mit KI- und Infrastrukturregeln verknüpft sind. Das betrifft nicht nur Beschaffung, sondern auch Architekturentscheidungen.
 
 ## Bilder, Daten, Tabellen oder Diagramme
 
@@ -37,7 +39,7 @@ Für Michaels Arbeit ist das unmittelbar relevant, weil Cloud-Verträge, Exit-Sz
 | KI | Von Modellen zu Betriebsumgebungen | Compute, Datenzugang und Distribution werden politisch relevant |
 | Unternehmen | Von Nutzung zu Governance | Mehr Dokumentation, mehr Vendor-Risk-Management |
 
-## Warum dieser Eintrag relevant ist
+## Relevanzbegründung
 
 Das Thema ist für yesterdaysnews passend, weil die Meldung nicht nur ein Tagesereignis ist. Sie zeigt eine länger laufende Umstellung: KI wird in Europa zunehmend als Infrastruktur- und Regulierungsthema behandelt, nicht nur als Produkttrend.
 

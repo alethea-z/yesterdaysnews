@@ -24,9 +24,12 @@ Jedes recherchierte Thema wird als eigener Blogpost ausgearbeitet. Die Tonalitä
    - Beispiele: „Quelle A meldet ...“, „Quelle B ergänzt ...“, „Quelle C ordnet ein ...“
    - konkrete Links auf möglichst die Originalquellen
 3. **Hintergründe und Detailrecherche**
-   - zusätzliche Fakten, Kontext, Chronologie
+   - das Einzelereignis zunächst zu einer breiteren Fragestellung verallgemeinern
+   - zusätzliche Fakten, Chronologie und Vorläufer
    - belastbare Einordnung aus weiteren Quellen
-4. **Analyse und Bewertung**
+   - Unterschiede nach Region, Bevölkerungsgruppe oder institutionellem Kontext, wenn belegbar
+   - ähnliche Auswirkungen in verwandten Bereichen mit recherchieren
+4. **Analyse**
    - kritisch reflektiert
    - möglichst objektiv und ohne Hype
    - Hinweise auf Unsicherheiten, offene Fragen oder Gegenpositionen
@@ -52,3 +55,4 @@ Jedes recherchierte Thema wird als eigener Blogpost ausgearbeitet. Die Tonalitä
 - Nach Themen gruppiert, wenn sinnvoll
 - Keine reine Liste ungeprüfter Links
 - Ältere Themen sollen eher verdichtet und verallgemeinert dargestellt werden als nur als Meldung
+- Die mittlere Recherchephase soll nicht die eigene Meinung ersetzen, sondern eine breitere, belegte Lagebeschreibung liefern

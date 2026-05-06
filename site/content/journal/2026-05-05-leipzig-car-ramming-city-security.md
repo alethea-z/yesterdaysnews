@@ -3,6 +3,7 @@ title: "Leipzig: Ermittlungen nach Angriff in der Innenstadt"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
 description: "Der Angriff in Leipzig wirft Fragen zur Sicherung öffentlicher Räume und zur Krisenkommunikation auf."
+summary: "Der Angriff wirft Fragen zur Sicherung öffentlicher Räume und zur Krisenkommunikation auf."
 tags: ["Leipzig", "Sicherheit", "Krisenmanagement", "Innenstadt"]
 categories: ["journal"]
 ---
@@ -10,7 +11,7 @@ categories: ["journal"]
 ## Presseschau
 
 - **Reuters** meldete am 4. Mai, dass in der Leipziger Innenstadt ein Auto in eine Menschenmenge fuhr; zwei Menschen starben, weitere wurden schwer verletzt.
-- **Die Stadt und die Polizei** hielten sich zunächst mit Motiven zurück; die Ermittler sprachen von einem festgenommenen Fahrer und einer zunächst unklaren Lage.
+- **Reuters** verwies in der Folgeberichterstattung auf lokale Angaben von **Radio Leipzig** und **MDR**; dort war von einem Fahrer in Gewahrsam und weiteren Verletzten die Rede.
 - Die internationale Berichterstattung übernahm schnell die Leipziger Perspektive: nicht nur Tat und Opfer, sondern auch die Frage, wie robust öffentliche Räume gegen solche Dynamiken sind.
 
 ## Detailrecherche
@@ -42,4 +43,4 @@ Die Geschichte ist lokal, aber die Lehre ist universell: Wer Innenstädte, Bahnh
 ## Quellen
 
 1. Reuters: [Two dead after car runs into crowd in German city of Leipzig, reports local broadcaster](https://www.reuters.com/world/car-rams-into-crowd-people-german-city-leipzig-focus-online-reports-2026-05-04/)
-2. Reuters: [German police investigate scene of deadly car ramming](https://www.reuters.com/video/watch/idRW785305052026RP1/)
+2. Reuters Video: [German police investigate scene of deadly car ramming](https://www.reuters.com/video/watch/idRW785305052026RP1/)

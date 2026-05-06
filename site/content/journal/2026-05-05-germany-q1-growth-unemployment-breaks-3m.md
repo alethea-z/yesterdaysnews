@@ -3,6 +3,7 @@ title: "Deutschland: Leichtes Wachstum bei Arbeitslosigkeit über 3 Millionen"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
 description: "Das Q1-Wachstum steht neben einem Arbeitsmarkt mit weiterhin über 3 Millionen Arbeitslosen."
+summary: "Das Quartal zeigt Wachstum, aber auch einen weiter fragilen Arbeitsmarkt."
 tags: ["Deutschland", "Wirtschaft", "Arbeitsmarkt", "Konjunktur"]
 categories: ["journal"]
 ---
@@ -10,7 +11,7 @@ categories: ["journal"]
 ## Presseschau
 
 - **Reuters** meldete am 30. April, dass die deutsche Wirtschaft im ersten Quartal 2026 um 0,3 Prozent gewachsen sei.
-- Gleichzeitig stieg die Arbeitslosigkeit im April über die politisch symbolträchtige Marke von 3 Millionen.
+- **Destatis** bestätigte das Quartalsplus ebenfalls; zugleich lag die Arbeitslosigkeit im April weiter über der Marke von 3 Millionen.
 - Als Treiber nannte Reuters vor allem Konsum, Staatsausgaben und Exporte; als Gegenwind unter anderem den Energiepreisschock durch den Iran-Krieg.
 
 ## Detailrecherche
@@ -29,7 +30,7 @@ Für Software-, IT- und KI-Teams ist das mehr als Makro-Gespräch. Wenn der Arbe
 
 Die zentrale Botschaft ist nicht "Deutschland ist in der Krise". Die Botschaft ist differenzierter: Das Land wächst noch, aber die Basis ist dünn. Energiepreise, globale Unsicherheit und schwache Nachfrage schlagen zeitversetzt auf Beschäftigung und Planung durch. Für Unternehmen heißt das: nicht auf einen schnellen Turnaround wetten, sondern robust planen.
 
-Das betrifft Leipzig direkt. Die regionale Wirtschaft hängt an Industrie, Logistik, Dienstleistungen und öffentlicher Hand — also an genau den Bereichen, die bei schwachem Wachstum zuerst rationalisieren.
+Das betrifft Leipzig direkt. Die regionale Wirtschaft hängt an Industrie, Logistik, Dienstleistungen und öffentlicher Hand — also an genau den Bereichen, die bei schwachem Wachstum zuerst rationalisieren. Wer Projekte, Budgets oder Neueinstellungen vorbereitet, bekommt damit früh ein Signal, die Annahmen härter zu prüfen.
 
 ## Relevanzbegründung
 
@@ -38,4 +39,4 @@ Diese Meldung ist der klassische yesterdaysnews-Fall: alt genug, dass der erste 
 ## Quellen
 
 1. Reuters: [Germany Q1 growth, unemployment breaks 3M: German economy grows in Q1 but unemployment climbs above 3 million](https://www.reuters.com/world/europe/german-economy-grows-by-0-3-in-first-quarter-preliminary-data-shows-2026-04-30/)
-2. Reuters: [Germany Q1 growth, unemployment breaks 3M: Germany's economy grows in Q1 but unemployment climbs above 3 million](https://www.rte.ie/news/business/2026/0430/1571037-german-first-quarter-gdp-figures/)
+2. Destatis: [Gross domestic product in the 1st quarter of 2026 up 0.3% on the previous quarter](https://www.destatis.de/EN/Press/2026/04/PE26_153_811.html)

@@ -11,23 +11,25 @@ summary: "Thomson Reuters schärft die Positionierung seiner KI-Produkte über V
 ## Presseschau
 
 - **Reuters** berichtet, dass Thomson Reuters seine Prognosen bestätigt und zugleich auf Nachfrage nach sogenannter **fiduciary-grade AI** verweist.
-- Die offizielle Thomson-Reuters-Mitteilung nennt CoCounsel als Produkt, das in regulierten Branchen bereits stark genutzt wird und auf professionelle Nachvollziehbarkeit zielt.
+- Die **Thomson-Reuters-Earnings-Präsentation** betont ebenfalls „fiduciary-grade AI“ und ordnet die Produktadoption in regulierten Branchen ein.
 - Die Meldung zeigt damit den Übergang von KI als Demo zu KI als verantwortbares Fachwerkzeug.
 
-## Hintergründe und Detailrecherche
+## Detailrecherche
 
-Das ist ein interessanter Gegenentwurf zum Consumer-Hype: Nicht „wow“, sondern verlässlich. In Rechts-, Steuer- und Wissensarbeit zählt nicht die hübscheste Demo, sondern die Fähigkeit, Ergebnisse zu begründen und intern abzusichern.
+Die Forderung nach belastbarer, nachvollziehbarer KI ist älter als der aktuelle Hype. In Rechts-, Steuer- und Wissensarbeit taucht sie seit Jahren immer wieder auf — meist dort, wo Fehler teuer werden und Nachweise Pflicht sind.
 
-Genau deshalb ist „fiduciary-grade AI“ mehr als ein Marketingwort. Es beschreibt einen Markt, in dem Vertrauen selbst zum Produktmerkmal wird.
+Ähnliche Anforderungen sehen wir inzwischen auch in angrenzenden Bereichen wie Compliance, Versicherungen, regulierter Forschung und Beschaffung. Überall dort wird KI dann akzeptiert, wenn Herkunft, Begründung und Prüfbarkeit mitwachsen.
 
-## Analyse und Bewertung
+Regional und kulturell ist die Wahrnehmung unterschiedlich: In stark regulierten europäischen Märkten steht Nachweisbarkeit meist höher im Kurs als reine Funktionsbreite, während der US-Markt häufiger über Produktivität und Skalierung spricht. Genau diese Spannweite macht „fiduciary-grade AI“ interessant.
+
+## Analyse
 
 Für Wissensarbeit und KI-Einkauf ist das ein plausibler Pfad:
 - KI muss kontrollierbar sein.
 - KI muss in Workflows passen.
 - KI muss auditierbar bleiben.
 
-Für Wissensarbeit und Procurement heißt das: KI-Produkte werden künftig über Nachvollziehbarkeit, Haftung und Workflow-Fit verkauft, nicht nur über Modellleistung.
+Für Wissensarbeit und Procurement heißt das: KI-Produkte werden künftig über Nachvollziehbarkeit, Haftung und Workflow-Fit verkauft, nicht nur über Modellleistung. Das ist die vernünftigere, aber auch strengere Marktlogik.
 
 ## Bilder, Daten, Tabellen oder Diagramme
 
@@ -37,12 +39,12 @@ Für Wissensarbeit und Procurement heißt das: KI-Produkte werden künftig über
 | Professionelle Nutzung | Recht, Compliance, Wissensarbeit |
 | Marktimpuls | KI wird als Infrastruktur für Expertenarbeit verkauft |
 
-## Warum dieser Eintrag relevant ist
+## Relevanzbegründung
 
 Das Thema zeigt, wohin sich ein Teil des KI-Markts bewegt: weg vom Massen-Chatbot, hin zum vertrauenswürdigen Fachwerkzeug.
 
 ## Quellen
 
 1. Reuters: [Thomson Reuters reaffirms forecasts, highlights 'fiduciary-grade AI' demand](https://www.reuters.com/business/thomson-reuters-first-quarter-revenue-rises-10-reaffirms-full-year-forecast-2026-05-05/) — belegt die Marktpositionierung und Nachfrage.
-2. Thomson Reuters: [One Million Professionals Turn to CoCounsel as Thomson Reuters Scales AI for Regulated Industries](https://www.thomsonreuters.com/en/press-releases/2026/february/one-million-professionals-turn-to-cocounsel-as-thomson-reuters-scales-ai-for-regulated-industries) — liefert die Primärquelle zur Produktnutzung in regulierten Branchen.
-3. Reuters: [Thomson Reuters shares rally after CoCounsel AI tool draws 1 million users](https://www.reuters.com/business/thomson-reuters-shares-rally-after-cocounsel-ai-tool-draws-1-million-users-2026-02-24/) — ergänzt die Marktreaktion auf die KI-Nutzung.
+2. Thomson Reuters: [Q1 2026 Earnings Presentation](https://investors.thomsonreuters.com/static-files/4c62d2b4-40ee-424d-a8c3-8594851fd54e) — enthält den Begriff „fiduciary-grade AI“ im offiziellen Earnings-Material.
+3. Thomson Reuters: [From Legal AI Experiments to Execution: What CoCounsel Changes](https://www.thomsonreuters.com/en-us/posts/innovation/from-legal-ai-experiments-to-execution-what-cocounsel-changes/) — beschreibt die Produkt- und Nutzungslogik von CoCounsel.

@@ -3,6 +3,7 @@ title: "EU warnt vor Huawei und ZTE in der Netzinfrastruktur"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
 description: "Die Warnung aus Brüssel betrifft die Absicherung kritischer Netzinfrastruktur."
+summary: "Die Brüsseler Warnung verschiebt Netzinfrastruktur stärker in Richtung digitaler Souveränität."
 tags: ["Cybersecurity", "Telekommunikation", "EU", "Lieferkette"]
 categories: ["journal"]
 ---
@@ -10,7 +11,7 @@ categories: ["journal"]
 ## Presseschau
 
 - **Reuters** berichtete am 4. Mai, die Europäische Kommission empfehle Mitgliedstaaten, Huawei- und ZTE-Technik aus der Konnektivitätsinfrastruktur herauszuhalten.
-- Die Begründung: neue Cybersecurity-Regeln könnten den Mitgliedstaaten künftig sogar formale Verbote gegenüber Hochrisiko-Lieferanten ermöglichen.
+- **The Next Web** ordnete das als Ausweitung der alten 5G-Sicherheitslogik auf die breitere digitale Infrastruktur ein; die politische Linie wird damit deutlich härter.
 - China drohte laut Reuters bereits mit Gegenmaßnahmen, falls die Regeln angewendet werden.
 
 ## Detailrecherche
@@ -36,3 +37,4 @@ Für Leipzig und Sachsen ist das spannend, weil hier Industrie, Hochschulen, For
 ## Quellen
 
 1. Reuters: [EU warns on Huawei/ZTE connectivity infrastructure: EU recommends member states to not use Huawei, ZTE in connectivity infrastructure](https://www.reuters.com/sustainability/boards-policy-regulation/eu-recommends-member-states-not-use-huawei-zte-connectivity-infrastructure-2026-05-04/) — belegt die aktuelle Brüsseler Empfehlung.
+2. The Next Web: [Brussels reissues its Huawei warning, and prepares to make it stick](https://thenextweb.com/news/eu-huawei-zte-connectivity-infrastructure-recommendation) — ordnet die Ausweitung auf die breitere Infrastruktur ein.

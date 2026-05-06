@@ -3,6 +3,7 @@ title: "EU AI Act: Verhandlungen über Entlastungen kommen nicht voran"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
 description: "Die Verhandlungen über Entlastungen kommen nicht voran und halten die Rechtslage für KI-Projekte offen."
+summary: "Die Verzögerung in Brüssel hält die Umsetzung des AI Act für Unternehmen und Verwaltungen weiter offen."
 tags: ["EU", "AI Act", "Regulierung", "KI"]
 categories: ["journal"]
 ---
@@ -10,8 +11,8 @@ categories: ["journal"]
 ## Presseschau
 
 - **Reuters** berichtete am 29. April, dass EU-Staaten und Europaabgeordnete nach langen Gesprächen keinen Deal über abgeschwächte KI-Regeln fanden.
-- Die strittigen Punkte betreffen vor allem Ausnahmen, sektorale Regeln und die Frage, wie stark der Digital Omnibus die bestehende Regulierung entlasten darf.
-- Die EU-Kommission selbst beschreibt die AI-Act-Überarbeitung als Teil eines breiteren Entlastungspakets für den Digitalbereich.
+- Die **EU-Ratsposition** zu einer Vereinfachung der KI-Regeln war zwar schon gesetzt, doch die konkreten Trilog-Fragen zu Ausnahmen und Fristen blieben offen.
+- Die **EU-Kommission** rahmt die AI-Act-Überarbeitung weiter als Teil eines breiteren Entlastungspakets für den Digitalbereich und verweist dabei auf die Simplifizierungslogik hinter dem Digital Omnibus.
 
 ## Detailrecherche
 
@@ -29,7 +30,7 @@ Für ein Projekt wie yesterdaysnews ist das ein prototypisches Thema: alt genug,
 
 1. klare Klassifikation des Use Cases,
 2. belastbare Dokumentation,
-3. einen Plan für spätere Nachweise.
+3. ein Fristen- und Nachweisbild, das nicht bei jedem Brüsseler Kompromiss neu zerfällt.
 
 Die Verzögerung in Brüssel ist deshalb kein bloßes Procedural Drama. Sie verlängert den Zustand, in dem viele Organisationen zwar loslegen wollen, aber nicht wissen, ob ihre Governance in sechs Monaten noch genügt. Das ist unbequem, aber auch nützlich: Es zwingt Teams dazu, Verantwortung und Nachvollziehbarkeit nicht erst dann zu bauen, wenn der Auditor schon vor der Tür steht.
 
@@ -40,3 +41,5 @@ Leipzig ist kein Brüsseler Gesetzgebungszentrum, aber ein Ort, an dem KI in Ver
 ## Quellen
 
 1. Reuters: [EU AI Act talks stall: EU countries, lawmakers fail to reach deal on watered-down AI rules](https://www.reuters.com/sustainability/boards-policy-regulation/eu-countries-lawmakers-fail-reach-deal-on-watered-down-ai-rules-2026-04-29/) — belegt den Stillstand in den Verhandlungen.
+2. Council of the European Union: [Council agrees position to streamline rules on Artificial Intelligence](https://www.consilium.europa.eu/en/press/press-releases/2026/03/13/council-agrees-position-to-streamline-rules-on-artificial-intelligence/) — zeigt die offizielle Vereinfachungsrichtung.
+3. European Commission: [AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) — rahmt den Kommissionsansatz zu Vereinfachung, AI Pact und Umsetzungslogik.

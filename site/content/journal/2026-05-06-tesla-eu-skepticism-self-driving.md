@@ -14,17 +14,17 @@ summary: "Tesla will FSD in Europa voranbringen, doch die regulatorische Skepsis
 - Die niederländische Behörde **RDW** bestätigt die vorläufige Typgenehmigung, betont aber zugleich, dass FSD Supervised kein autonomes Fahren ist.
 - **Electrek** ergänzt, dass mehrere europäische Regulierer genau die Sicherheitsfragen diskutieren, die Tesla für die EU-Freigabe überwinden muss.
 
-## Hintergründe und Detailrecherche
+## Detailrecherche
 
 Automatisiertes Fahren lebt nicht nur von Software, sondern von Nachweisbarkeit. Genau da kollidieren Marketing, Produktstrategie und Aufsicht. Tesla ist bei solchen Themen traditionell offensiv, Behörden in Europa dagegen vorsichtig.
 
 Das ist kein Zufall, sondern System: Je höher das Sicherheitsrisiko, desto langsamer verläuft die Zulassung. Bei Fahrfunktionen wird die öffentliche Toleranz gegenüber Fehlern drastisch kleiner.
 
-## Analyse und Bewertung
+## Analyse
 
 Die eigentliche Frage ist nicht, ob die Technologie beeindruckend wirkt. Die Frage ist, ob sie robust genug ist, um im europäischen Rechts- und Sicherheitsrahmen zu bestehen.
 
-Für Unternehmen in Deutschland ist das eine nützliche Erinnerung: Regulierung ist nicht nur Bremsklotz. Sie definiert auch die Eintrittsschwelle für Vertrauen.
+Für Unternehmen in Deutschland ist das eine nützliche Erinnerung: Regulierung ist nicht nur Bremsklotz. Sie definiert auch die Eintrittsschwelle für Vertrauen. Bei sicherheitskritischen KI-Funktionen ist das kein Nebenthema, sondern der Kern des Marktzugangs.
 
 ## Bilder, Daten, Tabellen oder Diagramme
 
@@ -34,7 +34,9 @@ Für Unternehmen in Deutschland ist das eine nützliche Erinnerung: Regulierung 
 | EU-Skepsis | Sicherheitsnachweis hat Vorrang |
 | Zulassung | Ohne belastbare Evidenz keine schnelle Freigabe |
 
-## Warum dieser Eintrag relevant ist
+Das ist kein Tesla-Sonderfall, sondern ein Muster für jede sicherheitskritische Automatisierung.
+
+## Relevanzbegründung
 
 Das Thema betrifft weit mehr als Tesla. Es zeigt, wie Europa bei sicherheitskritischer KI und Automatisierung tickt.
 
