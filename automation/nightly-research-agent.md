@@ -52,6 +52,7 @@ Bewerte jedes Thema entlang von:
 - Formuliere pro Thema vor der Detailrecherche eine **Recherchefrage** und eine **Prüfidee**.
 - Leite aus der Initialmeldung eigene Folge-Suchanfragen ab, die Geschichte, Vergleichsfälle, Auswirkungen und regionale Unterschiede erschließen.
 - Nutze mehrere Startpunkte je Thema: Primärquelle, unabhängige Berichtsquelle, optional eine dritte Einordnung.
+- Wenn die Initialmeldung auf einem Hersteller- oder Firmen-Pressetext basiert, behandle sie zunächst als Marketing-/Selbstaussage und prüfe strikt, ob unabhängige Berichte, Daten oder Marktmuster daraus eine echte Nachricht machen.
 - Jede Presseschau-Quelle bekommt einen Link direkt im Bullet und eine knappe Rollen-/Belegnotiz.
 - Wenn eine Recherchefrage mit „woran kann man erkennen …?“ beginnt, muss die Detailrecherche zuerst allgemeine Entscheidungskriterien liefern und dann den konkreten Fall einordnen.
 - Der Abschnitt zu Bildern/Daten/Tabellen/Diagrammen muss nur dann erscheinen, wenn dort neue Zahlen oder Messwerte mit kurzer Auswertung stehen; keine bloße Wiederholung des Textes.

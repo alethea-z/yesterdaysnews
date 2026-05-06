@@ -42,7 +42,8 @@ Jeder potenzielle Treffer wird gegen vier Hauptkriterien geprüft:
 2. Zu Beginn den aktuellen Wissensstand laden: `criteria/*.md`, `site/archetypes/journal.md`, `decisions.md`, `open-questions.md` und die zuletzt bearbeiteten Posts.
 3. Die Recherche mit mehreren Startpunkten beginnen: Primärquelle, unabhängige Berichtsquelle, ggf. dritte Einordnung.
 4. Bei Unternehmensquellen möglichst die konkrete News-, Event-, Filing- oder PDF-Seite verwenden; allgemeine IR-Startseiten nur als Fallback.
-5. Aus der Initialmeldung eigene Folge-Suchanfragen ableiten, die Geschichte, Vergleichsfälle, Auswirkungen und regionale Unterschiede erschließen.
+5. Wenn die Initialmeldung auf einem Hersteller- oder Firmen-Pressetext basiert, zuerst prüfen, ob daraus überhaupt eine belastbare Nachricht wird oder nur eine Marketing-Aussage vorliegt.
+6. Aus der Initialmeldung eigene Folge-Suchanfragen ableiten, die Geschichte, Vergleichsfälle, Auswirkungen und regionale Unterschiede erschließen.
 6. Pro Thema eine Presseschau mit Quellen aus unterschiedlichen Rollen erstellen.
 7. Pro Thema eine **Recherchefrage** formulieren, die den Einzelfall zu einer überprüfbaren größeren Fragestellung verdichtet.
 8. Zu jeder Recherchefrage eine **Prüfidee** festhalten: Welche Primärquelle, welche unabhängige Berichtsquelle und welche Kontextquelle tragen die Antwort?

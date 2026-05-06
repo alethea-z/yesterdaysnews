@@ -5,6 +5,9 @@
 - Jede Meldung muss auf die Originalquelle oder belastbare Erstquelle verweisen.
 - Wichtige Punkte sollen, wenn möglich, durch mehrere unabhängige Quellen überprüfbar sein.
 - Die Presseschau soll mehrere Perspektiven auf dasselbe Thema bündeln, nicht nur dieselbe Meldung mehrfach paraphrasieren.
+- Wenn die Ausgangslage primär aus einem Hersteller- oder Firmen-Pressetext stammt, gilt das zunächst als Marketing-/Selbstbeschreibung und nicht als Nachricht mit eigener Beweiskraft.
+- Solche Texte nur verwenden, wenn sie durch unabhängige Berichte, Daten, Dokumente oder ein verallgemeinerbares Markt-Muster gestützt werden.
+- Hersteller- und Firmenpressetexte müssen daher strenger geprüft werden als neutrale Berichte: konkrete Zahlen, überprüfbare Aussagen, unabhängige Einordnung und Relevanz für einen größeren Markt müssen sichtbar sein.
 
 ## Gute Quellen
 - Offizielle Mitteilungen
