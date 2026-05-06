@@ -44,4 +44,3 @@ Das Thema ist für yesterdaysnews passend, weil die Meldung nicht nur ein Tagese
 ## Quellen
 
 1. Reuters: [EU rules reining in Big Tech will now target cloud services and AI, regulators say](https://www.reuters.com/legal/litigation/eu-rules-reining-big-tech-will-now-target-cloud-services-ai-regulators-say-2026-04-28/) — belegt die aktuelle politische Verschiebung.
-2. European Commission: [European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence) — ordnet die breitere EU-Strategie für KI und Industriepolitik ein.

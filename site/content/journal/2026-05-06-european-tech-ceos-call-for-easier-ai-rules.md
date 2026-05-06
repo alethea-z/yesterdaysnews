@@ -50,4 +50,3 @@ Der Beitrag passt exakt zum yesterdaysnews-Muster: Die Meldung ist alt genug, um
 
 1. Reuters: [Top European tech CEOs call for easier AI rules](https://www.reuters.com/legal/litigation/top-european-tech-ceos-call-for-easier-ai-rules-2026-05-05/) — beschreibt die aktuelle Forderung großer europäischer Tech-Firmen.
 2. DIGITALEUROPE: [The European CEO AI and critical tech declaration](https://www.digitaleurope.org/the-ceo-letter/) — zeigt die inhaltliche Linie der europäischen Tech-Industrie.
-3. euneedsai.com: [Ensuring AI innovation in Europe: Open letter to EU policymakers](https://euneedsai.com/) — belegt die offene, pro-innovationsorientierte Position von Unternehmen und Forschern.
