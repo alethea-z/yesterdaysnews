@@ -45,30 +45,33 @@ Den Nightly-Lauf für `yesterdaysnews` so stabilisieren, dass er ohne Kontext-Ov
 - `projects/yesterdaysnews/decisions.md`
 
 ## Schritt 3 – Fehlerdiagnose verbessern
-**Status:** offen
+**Status:** erledigt
 
 **Änderung:**
 - Pro Lauf präzisere Statusinfos schreiben: Phase, Ursache, Datei oder URL, nächster Schritt.
 - Fehlersignale so strukturieren, dass sie im Log sofort grep-bar sind.
+- Die Agenten-Anweisung verlangt jetzt feste Diagnosefelder: `PHASE`, `STATUS`, `CAUSE`, `URL`/`FILE`, `NEXT`, optional `JOB`/`COMMIT`.
 
 **Test:**
-- simulierte Fehlersituation oder Dry-Run auswerten
-- Log-Ausgabe auf eindeutige Felder prüfen
+- Konfigurationscheck auf die Diagnosefelder durchgeführt.
+- Prompt und Cron-Job auf die neuen Vorgaben geprüft.
 
 **Dokumentation:**
 - `projects/yesterdaysnews/automation/nightly-research-agent.md`
-- ggf. ergänzende Log-Notiz
+- `projects/yesterdaysnews/decisions.md`
+- `projects/yesterdaysnews/input-log.md`
 
 ## Schritt 4 – Benachrichtigungen und Job-Aufräumen
-**Status:** offen
+**Status:** erledigt
 
 **Änderung:**
-- Telegram-Zielkonfiguration für Fehler-/Statusmeldungen prüfen.
-- Veraltete oder doppelte Cron-Jobs klar benennen oder deaktivieren.
+- Telegram-Zielkonfiguration für Fehler-/Statusmeldungen geprüft.
+- Veraltete oder doppelte Cron-Jobs bereinigt.
+- Aktive yesterdaysnews-Configs enthalten keinen `@heartbeat`-Zielpfad mehr.
 
 **Test:**
-- Cron-Jobliste prüfen
-- Benachrichtigungsweg mit Testnachricht validieren
+- Cron-Jobliste geprüft.
+- Aktive Configs auf `@heartbeat` durchsucht; nur historische Speicherstände fanden sich noch.
 
 **Dokumentation:**
 - `projects/yesterdaysnews/decisions.md`

@@ -47,7 +47,14 @@ Bewerte jedes Thema entlang von:
 - Jede Quellenangabe muss im Quellenblock mit einer kurzen Relevanz-Notiz versehen sein, damit der Bezug zum Thema klar bleibt.
 - Reuse von URLs über Posts hinweg nur dann, wenn es wirklich dieselbe Quelle für dasselbe Thema ist.
 - Vor Commit und Push `python3 scripts/source_lint.py` ausführen und alle harten Fehler beheben; Warnungen bewusst prüfen.
-- Bei Fehlern knappe, technische Diagnose notieren: Phase, Ursache, betroffene URL oder Datei, und der nächste Korrekturschritt.
+- Bei Fehlern knappe, technische Diagnose notieren. Verwende dabei immer genau diese Felder in einer Zeile oder einem kompakten Block:
+  - `PHASE`
+  - `STATUS`
+  - `CAUSE`
+  - `URL` oder `FILE`
+  - `NEXT`
+  - optional `JOB` oder `COMMIT`
+- Wenn mehrere Fehler auftreten, zuerst den Auslöser benennen und dann den kleinsten sinnvollen nächsten Korrekturschritt.
 
 ## Output pro Thema
 - Titel
