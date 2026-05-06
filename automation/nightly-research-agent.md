@@ -56,6 +56,8 @@ Bewerte jedes Thema entlang von:
 - Wenn eine Recherchefrage mit „woran kann man erkennen …?“ beginnt, muss die Detailrecherche zuerst allgemeine Entscheidungskriterien liefern und dann den konkreten Fall einordnen.
 - Der Abschnitt zu Bildern/Daten/Tabellen/Diagrammen muss nur dann erscheinen, wenn dort neue Zahlen oder Messwerte mit kurzer Auswertung stehen; keine bloße Wiederholung des Textes.
 - Analyse, Relevanz und Schlussfolgerung müssen neue Evidenz oder eine neue Sicht auf Evidenz liefern; reine Selbstbestätigung der Quellen ist zu vermeiden.
+- Der Schluss eines Beitrags muss die Recherchefrage direkt beantworten oder klar als Blocker markieren; offene Frage-Enden sind zu vermeiden.
+- Wenn eine offizielle Quelle schwer lesbar oder lang ist, soll der relevante Abschnitt im Text mit einer kurzen Kernaussage, Seiten-/Abschnittsangabe und einem Direktlink zitiert werden.
 - URL vor dem Schreiben kurz prüfen; offensichtliche 404/410-Quellen sofort ersetzen.
 - Bei Unternehmensquellen möglichst die konkrete News-, Event-, Filing- oder PDF-Seite nutzen; allgemeine IR-Startseiten nur als Fallback.
 - Wenn ein Thema älter ist, erweitere es zu einer zeitlichen Entwicklung oder belastbaren Einordnung.
@@ -71,7 +73,7 @@ Bewerte jedes Thema entlang von:
   - Quelle B ergänzt
   - Quelle C ordnet ein oder setzt einen Gegenakzent
 - Reuse von URLs über Posts hinweg nur dann, wenn es wirklich dieselbe Quelle für dasselbe Thema ist.
-- Die Analyse schließt erst nach der Einordnung explizit auf die Ausgangsfrage zurück.
+- Die Analyse schließt erst nach der Einordnung explizit auf die Ausgangsfrage zurück und formuliert eine eindeutige Schlussbewertung.
 - Vor Commit und Push `python3 scripts/source_lint.py` ausführen und alle harten Fehler beheben; Warnungen bewusst prüfen.
 - Bei Fehlern knappe, technische Diagnose notieren. Verwende dabei immer genau diese Felder in einer Zeile oder einem kompakten Block:
   - `PHASE`

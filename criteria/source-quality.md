@@ -46,6 +46,7 @@ Wenn eine Meldung eine **Marktreife-, Produktionsreife- oder KI-Primärursache**
 - Welche alternative Ursache ist mindestens genauso plausibel?
 
 Wenn möglich, sollen dabei zusätzlich mindestens eine Primärquelle und eine unabhängige Vergleichs- oder Kontextquelle eingebunden werden. Wenn nur eine Quelle verfügbar ist, muss das offen gesagt werden; dann darf nicht so getan werden, als gäbe es bereits ein breites Quellenbild.
+Wenn eine offizielle Quelle schwer lesbar, lang oder technisch unhandlich ist, muss im Artikel der relevante Abschnitt mit kurzer wörtlicher oder sinngemäßer Kernaussage, Seiten-/Abschnittsangabe und direkt passendem Link zitiert werden. Bloßes Verweisen auf das Dokument reicht dann nicht.
 
 ## Weniger geeignet
 - Reine Aggregatoren ohne eigene Einordnung
@@ -56,3 +57,4 @@ Wenn möglich, sollen dabei zusätzlich mindestens eine Primärquelle und eine u
 - Behauptungen wie „KI war die Ursache“ oder „das Produkt ist produktionsreif“ ohne unabhängigen Prüfrahmen, Gegenquelle oder überprüfbare Kennzahlen
 - Strukturabschnitte, die nur die vorherigen Sätze wiederholen, statt neue Zahlen, Kriterien oder Auswertung zu liefern
 - Relevanzbegründungen ohne konkreten Mechanismus oder ohne neue Evidenz
+- Schlussabschnitte, die als offene Frage, Einladung oder unvollendete Bewertung enden, obwohl eine belastbare Schlussfolgerung möglich wäre

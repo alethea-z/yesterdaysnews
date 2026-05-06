@@ -54,13 +54,13 @@ Jeder potenzielle Treffer wird gegen vier Hauptkriterien geprüft:
 14. Zahlen, Fristen, Vergleichswerte und Gegenbeispiele explizit prüfen und in die Argumentation einbauen.
 15. Wenn eine Meldung Produktionsreife, Marktreife oder eine eindeutige Ursache behauptet, zusätzlich mit externen Kriterien, Gegenbeispielen und mindestens einer alternativen Erklärung validieren.
 16. Pro Thema eine kritische und möglichst objektive Analyse schreiben.
-17. Die Schlussfolgerung am Ende der Analyse klar mit der Ausgangsfrage verknüpfen.
+17. Die Schlussfolgerung am Ende der Analyse klar mit der Ausgangsfrage verknüpfen und direkt beantworten, statt eine offene Frage stehen zu lassen.
 18. Falls sinnvoll, Bilder, Daten, Tabellen oder Diagramme ergänzen — aber nur mit neuen Zahlen oder Auswertung, nicht als Textwiederholung.
 19. Eine kurze Relevanzbegründung formulieren, die auf einen konkreten Mechanismus verweist.
-18. 10 Beiträge auswählen, die das Kernkriterium erfüllen.
-19. Die Ergebnisse als Markdown-Journal-Einträge mit der Standardgliederung vorbereiten.
-20. Jeden Eintrag mit passenden Tags und ggf. Kategorien versehen.
-21. Die Inhalte in `site/content/journal/` ablegen.
+20. 10 Beiträge auswählen, die das Kernkriterium erfüllen.
+21. Die Ergebnisse als Markdown-Journal-Einträge mit der Standardgliederung vorbereiten.
+22. Jeden Eintrag mit passenden Tags und ggf. Kategorien versehen.
+23. Die Inhalte in `site/content/journal/` ablegen.
 
 ## Ausgaberegeln
 - Ein Beitrag pro Thema / Blogpost

@@ -37,6 +37,7 @@ summary: ""
 - Den konkreten Effekt für Michaels Arbeit, Projekte oder Alltag benennen.
 - Wenn ein Bezug besteht, den Mechanismus nennen: Kosten, Risiko, Compliance, Toolwahl, Lieferfähigkeit, Arbeitsweise.
 - Jede Wertung muss aus Quellen, Kriterien oder Messwerten abgeleitet sein; keine Selbstbelegung mit derselben Quelle.
+- Die Schlussfolgerung muss die Recherchefrage direkt beantworten und keine neue offene Frage erzeugen, außer es besteht ein echter, benannter Blocker.
 - Keine Allgemeinplätze ohne Beleg.
 
 ## Bilder, Daten, Tabellen oder Diagramme
