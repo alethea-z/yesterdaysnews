@@ -47,6 +47,7 @@ Bewerte jedes Thema entlang von:
 - Recherchiere möglichst mit Primärquellen.
 - Presse-/Quellenüberblick zuerst, dann Detailrecherche.
 - Formuliere pro Thema vor der Detailrecherche eine **Recherchefrage** und eine **Prüfidee**.
+- Leite aus der Initialmeldung eigene Folge-Suchanfragen ab, die Geschichte, Vergleichsfälle, Auswirkungen und regionale Unterschiede erschließen.
 - Nutze mehrere Startpunkte je Thema: Primärquelle, unabhängige Berichtsquelle, optional eine dritte Einordnung.
 - URL vor dem Schreiben kurz prüfen; offensichtliche 404/410-Quellen sofort ersetzen.
 - Wenn ein Thema älter ist, erweitere es zu einer zeitlichen Entwicklung oder belastbaren Einordnung.
@@ -73,7 +74,8 @@ Bewerte jedes Thema entlang von:
 ## Output pro Thema
 - Titel
 - Presseschau mit Links auf Originalquellen und unterschiedlichen Rollen
-- Hintergründe und Detailrecherche
+- Recherchefrage und Prüfidee
+- Hintergründe und Detailrecherche mit neu gesuchten Kontextquellen
 - Kritische, objektive Analyse
 - Bilder, Daten, Tabellen oder Diagramme, wenn sinnvoll
 - Kurze Relevanzbegründung

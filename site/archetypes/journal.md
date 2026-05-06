@@ -16,6 +16,7 @@ summary: ""
 ## Recherchefrage und Prüfidee
 
 - Die Meldung zuerst in eine präzise, überprüfbare Forschungsfrage übersetzen.
+- Aus der Frage anschließend **eigene Suchanfragen** ableiten, die auf Historie, Vergleichsfälle, Wirkungen in Nachbarbereichen und regionale Unterschiede zielen.
 - Dazu ausdrücklich benennen, welche Primärquelle, welche unabhängige Berichtsquelle und welche Kontextquelle die Antwort tragen sollen.
 - Zahlen, Fristen, Vergleichswerte und Gegenbeispiele gezielt prüfen, bevor Schlussfolgerungen gezogen werden.
 - Unterschiedliche regionale oder gruppenspezifische Wahrnehmungen nur dann erwähnen, wenn sie quellenbasiert sichtbar werden.
