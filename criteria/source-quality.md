@@ -20,10 +20,11 @@ Für jedes Thema möglichst mehrere verschiedene Startpunkte sammeln:
 - optional eine dritte Quelle mit ergänzender Sichtweise, Kontext oder Gegenperspektive
 
 ## Presseschau-Regel
-In der Presseschau sollen die Quellen erkennbar unterschiedliche Rollen haben:
+In der Presseschau sollen die Quellen erkennbar unterschiedliche Rollen haben und direkt abspringbar sein:
 - Quelle A meldet das Ereignis
 - Quelle B ergänzt Zahlen, Kontext oder Folgen
 - Quelle C ordnet ein, widerspricht oder zeigt den institutionellen Rahmen
+- Jede Quelle bekommt einen kurzen Hinweis, was sie konkret belegt, damit der Prüfzweck sofort sichtbar ist
 
 ## Rechercheregel
 Wenn ein Thema verallgemeinert wird, muss die Verallgemeinerung mit Quellen, Daten oder mehreren Beispielen abgesichert sein.
@@ -33,6 +34,10 @@ Die Zusatzrecherche soll dann gezielt **neue Quellen** suchen, nicht nur die Ori
 - ob sich Wahrnehmung oder Wirkung nach Region, Zielgruppe oder Institution unterscheiden,
 - ob es Gegenbeispiele oder Gegenpositionen gibt,
 - ob Zahlen, Fristen und Vergleichswerte die Ausgangsthese wirklich tragen.
+
+Wenn eine Frage mit **„woran kann man erkennen …?“** beginnt, muss die Recherche die Antwort in zwei Teilen liefern:
+1. **allgemeine Entscheidungskriterien** oder Prüfmaßstäbe,
+2. **eine begründete Einschätzung für den konkreten Fall** anhand dieser Kriterien.
 
 Wenn eine Meldung eine **Marktreife-, Produktionsreife- oder KI-Primärursache** behauptet, muss die Recherche zusätzlich unabhängig prüfen:
 - Welche externen Kriterien sprechen überhaupt für Produktionsreife?
@@ -49,3 +54,5 @@ Wenn möglich, sollen dabei zusätzlich mindestens eine Primärquelle und eine u
 - Ein einzelner Reuters-Artikel als alleiniger Startpunkt, wenn offizielle oder fachlich stärkere Quellen verfügbar sind
 - Generische Investor-Relations-Startseiten ohne direkten Bezug zur Meldung; sie taugen höchstens als Navigationshilfe, nicht als eigentliche Quelle
 - Behauptungen wie „KI war die Ursache“ oder „das Produkt ist produktionsreif“ ohne unabhängigen Prüfrahmen, Gegenquelle oder überprüfbare Kennzahlen
+- Strukturabschnitte, die nur die vorherigen Sätze wiederholen, statt neue Zahlen, Kriterien oder Auswertung zu liefern
+- Relevanzbegründungen ohne konkreten Mechanismus oder ohne neue Evidenz

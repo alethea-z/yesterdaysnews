@@ -46,16 +46,17 @@ Jeder potenzielle Treffer wird gegen vier Hauptkriterien geprüft:
 6. Pro Thema eine Presseschau mit Quellen aus unterschiedlichen Rollen erstellen.
 7. Pro Thema eine **Recherchefrage** formulieren, die den Einzelfall zu einer überprüfbaren größeren Fragestellung verdichtet.
 8. Zu jeder Recherchefrage eine **Prüfidee** festhalten: Welche Primärquelle, welche unabhängige Berichtsquelle und welche Kontextquelle tragen die Antwort?
-9. Pro Thema zusätzliche, neu gesuchte Quellen für Hintergründe, Kontext und Detailrecherche sammeln.
-10. Bei älteren Themen nach Trends, Chronologien und langfristigen Erkenntnissen suchen.
-11. Für fernere Ereignisse die Tragweite klar belegen.
-12. Wenn möglich, ähnliche lokale Kleinereignisse vergleichen.
-13. Zahlen, Fristen, Vergleichswerte und Gegenbeispiele explizit prüfen und in die Argumentation einbauen.
-14. Wenn eine Meldung Produktionsreife, Marktreife oder eine eindeutige Ursache behauptet, zusätzlich mit externen Kriterien, Gegenbeispielen und mindestens einer alternativen Erklärung validieren.
-15. Pro Thema eine kritische und möglichst objektive Analyse schreiben.
-15. Die Schlussfolgerung am Ende der Analyse klar mit der Ausgangsfrage verknüpfen.
-16. Falls sinnvoll, Bilder, Daten, Tabellen oder Diagramme ergänzen.
-17. Eine kurze Relevanzbegründung formulieren, die auf einen konkreten Mechanismus verweist.
+9. Wenn die Frage mit „woran kann man erkennen …?“ beginnt, zuerst die allgemeinen Entscheidungskriterien notieren und danach den konkreten Fall bewerten.
+10. Pro Thema zusätzliche, neu gesuchte Quellen für Hintergründe, Kontext und Detailrecherche sammeln.
+11. Bei älteren Themen nach Trends, Chronologien und langfristigen Erkenntnissen suchen.
+12. Für fernere Ereignisse die Tragweite klar belegen.
+13. Wenn möglich, ähnliche lokale Kleinereignisse vergleichen.
+14. Zahlen, Fristen, Vergleichswerte und Gegenbeispiele explizit prüfen und in die Argumentation einbauen.
+15. Wenn eine Meldung Produktionsreife, Marktreife oder eine eindeutige Ursache behauptet, zusätzlich mit externen Kriterien, Gegenbeispielen und mindestens einer alternativen Erklärung validieren.
+16. Pro Thema eine kritische und möglichst objektive Analyse schreiben.
+17. Die Schlussfolgerung am Ende der Analyse klar mit der Ausgangsfrage verknüpfen.
+18. Falls sinnvoll, Bilder, Daten, Tabellen oder Diagramme ergänzen — aber nur mit neuen Zahlen oder Auswertung, nicht als Textwiederholung.
+19. Eine kurze Relevanzbegründung formulieren, die auf einen konkreten Mechanismus verweist.
 18. 10 Beiträge auswählen, die das Kernkriterium erfüllen.
 19. Die Ergebnisse als Markdown-Journal-Einträge mit der Standardgliederung vorbereiten.
 20. Jeden Eintrag mit passenden Tags und ggf. Kategorien versehen.
@@ -64,10 +65,10 @@ Jeder potenzielle Treffer wird gegen vier Hauptkriterien geprüft:
 ## Ausgaberegeln
 - Ein Beitrag pro Thema / Blogpost
 - Titel
-- Presseschau mit 2 bis 4 Quellen aus unterschiedlichen Rollen, sinngemäß zusammengefasst
+- Presseschau mit 2 bis 4 Quellen aus unterschiedlichen Rollen, sinngemäß zusammengefasst und direkt verlinkt
 - Hintergrund und Detailrecherche
 - Kritische, objektive Analyse
-- Bilder, Daten, Tabellen oder Diagramme, wenn sinnvoll
+- Bilder, Daten, Tabellen oder Diagramme, wenn sinnvoll und mit Zahlen/Auswertung
 - Kurze Relevanzbegründung am Ende, mechanistisch statt allgemein
 - Wenn das Thema älter ist: verallgemeinernde Zusammenfassung statt bloßer Meldung
 
