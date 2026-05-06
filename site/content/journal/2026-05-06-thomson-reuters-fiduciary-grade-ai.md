@@ -10,15 +10,15 @@ summary: "Thomson Reuters schärft die Positionierung seiner KI-Produkte über V
 
 ## Presseschau
 
-- **Reuters** berichtet, dass Thomson Reuters seine Prognosen bestätigt und zugleich auf Nachfrage nach sogenannter **fiduciary-grade AI** verweist.
-- Die **Thomson-Reuters-Earnings-Präsentation** betont ebenfalls „fiduciary-grade AI“ und ordnet die Produktadoption in regulierten Branchen ein.
+- Die **MarketScreener-/Reuters-Zusammenfassung** und die zugehörigen Unternehmensangaben betonen „fiduciary-grade AI“ und ordnen die Produktadoption in regulierten Branchen ein.
+- Der eigene **Thomson-Reuters-Artikel zum Aufbau von fiduciary-grade AI** macht klar, dass das Label bewusst an Vertrauen, Belegbarkeit und Fachkontext gebunden wird.
 - Die Meldung zeigt damit den Übergang von KI als Demo zu KI als verantwortbares Fachwerkzeug.
 
 ## Recherchefrage und Prüfidee
 
 - **Recherchefrage:** Ist 'fiduciary-grade AI' ein echter Marktstandard oder vor allem eine Positionierung für vertrauensbasierte Wissensarbeit?
 - **Prüfidee:** Reuters mit der Thomson-Reuters-Earnings-Präsentation und den CoCounsel-Materialien abgleichen; auf Produktnutzung, Regulierung und Nachweisbarkeit achten.
-- **Quellen der Prüfung:** Reuters; Thomson Reuters Q1 2026 Earnings Presentation; Thomson Reuters CoCounsel-Materialien
+- **Quellen der Prüfung:** MarketScreener-/Reuters-Zusammenfassung; Thomson Reuters CoCounsel-Materialien; Thomson Reuters Produktartikel
 
 ## Detailrecherche
 
@@ -51,5 +51,6 @@ Das Thema zeigt, wohin sich ein Teil des KI-Markts bewegt: weg vom Massen-Chatbo
 
 ## Quellen
 
-1. Reuters: [Thomson Reuters reaffirms forecasts, highlights 'fiduciary-grade AI' demand](https://www.reuters.com/business/thomson-reuters-first-quarter-revenue-rises-10-reaffirms-full-year-forecast-2026-05-05/) — belegt die Marktpositionierung und Nachfrage.
-2. Thomson Reuters: [CoCounsel adoption in regulated industries](https://www.thomsonreuters.com/en/press-releases/2026/february/one-million-professionals-turn-to-cocounsel-as-thomson-reuters-scales-ai-for-regulated-industries) — zeigt den Produkt- und Nutzungsrahmen in regulierten Branchen.
+1. MarketScreener: [Thomson Reuters reaffirms forecasts, highlights 'fiduciary-grade AI' demand](https://www.marketscreener.com/news/thomson-reuters-reaffirms-forecasts-highlights-fiduciary-grade-ai-demand-ce7f58dcda89f125) — erreichbarere Zusammenfassung der Reuters-Meldung mit Markt- und Produktkontext.
+2. Thomson Reuters: [A Sneak Peek into Building Fiduciary-Grade AI](https://www.thomsonreuters.com/en-us/posts/our-purpose/a-sneak-peek-into-building-fiduciary-grade-ai/) — erklärt die Produktlogik hinter dem Begriff.
+3. Thomson Reuters: [CoCounsel adoption in regulated industries](https://www.thomsonreuters.com/en/press-releases/2026/february/one-million-professionals-turn-to-cocounsel-as-thomson-reuters-scales-ai-for-regulated-industries) — zeigt den Produkt- und Nutzungsrahmen in regulierten Branchen.

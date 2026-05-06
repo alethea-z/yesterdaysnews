@@ -11,6 +11,7 @@
 - Direkte Dokumente, Berichte oder Daten
 - Seriöse Fachmedien mit nachvollziehbarer Herkunft
 - Vergleichende Quellen, wenn eine Verallgemeinerung belegt werden soll
+- Bei Unternehmensseiten immer möglichst die **konkrete News-, Event-, Filing- oder PDF-Seite** statt der allgemeinen IR-Startseite nutzen
 
 ## Recherchestartpunkte
 Für jedes Thema möglichst mehrere verschiedene Startpunkte sammeln:
@@ -40,3 +41,4 @@ Wenn nur eine Quelle verfügbar ist, muss das offen gesagt werden; dann darf nic
 - Quellen ohne klare Autorenschaft oder Datierung
 - Inhalte, die nur auf soziale Aufmerksamkeit optimiert sind
 - Ein einzelner Reuters-Artikel als alleiniger Startpunkt, wenn offizielle oder fachlich stärkere Quellen verfügbar sind
+- Generische Investor-Relations-Startseiten ohne direkten Bezug zur Meldung; sie taugen höchstens als Navigationshilfe, nicht als eigentliche Quelle

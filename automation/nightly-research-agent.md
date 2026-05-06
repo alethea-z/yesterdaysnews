@@ -53,6 +53,7 @@ Bewerte jedes Thema entlang von:
 - Leite aus der Initialmeldung eigene Folge-Suchanfragen ab, die Geschichte, Vergleichsfälle, Auswirkungen und regionale Unterschiede erschließen.
 - Nutze mehrere Startpunkte je Thema: Primärquelle, unabhängige Berichtsquelle, optional eine dritte Einordnung.
 - URL vor dem Schreiben kurz prüfen; offensichtliche 404/410-Quellen sofort ersetzen.
+- Bei Unternehmensquellen möglichst die konkrete News-, Event-, Filing- oder PDF-Seite nutzen; allgemeine IR-Startseiten nur als Fallback.
 - Wenn ein Thema älter ist, erweitere es zu einer zeitlichen Entwicklung oder belastbaren Einordnung.
 - Wenn ein Ereignis fern ist, belege die Relevanz für Leipzig und den jeweiligen Raum.
 - Wenn mehrere kleine Fälle ein Muster bilden, erkläre das mit Quellen und Fakten.

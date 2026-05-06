@@ -10,15 +10,15 @@ summary: "Der Stellenabbau bei Freshworks ist ein frühes Zeichen dafür, wie st
 
 ## Presseschau
 
-- **Reuters** meldet, dass Freshworks rund **11 Prozent** der Belegschaft abbaut und damit etwa 500 Stellen streicht.
-- Der **Freshworks-Newsroom** verweist parallel auf die Quartalszahlen und die laufende Produktlinie rund um AI-powered Software; **The Economic Times** ergänzt Umsatzplus und Restrukturierungskosten.
+- Die **Freshworks-IR-Result-Seite** verweist auf die Quartalszahlen, und die Ergebnis-PDF dokumentiert den operativen Kontext sowie die Restrukturierung.
+- Die Berichterstattung von **The Economic Times** ergänzt Umsatzplus und Restrukturierungskosten.
 - Die Meldung zeigt, dass KI im SaaS-Markt nicht nur Produkte, sondern auch Personal- und Kostenstrukturen verschiebt.
 
 ## Recherchefrage und Prüfidee
 
 - **Recherchefrage:** Sind die Freshworks-Kürzungen ein reiner KI-Nebeneffekt oder Teil eines breiteren SaaS-Umbaus mit Kosten- und Produktdruck?
 - **Prüfidee:** Reuters mit dem Freshworks-Newsroom und der Wirtschaftsberichterstattung abgleichen; Zahlen zu Stellenabbau, Umsatz und Restrukturierung getrennt betrachten.
-- **Quellen der Prüfung:** Reuters; Freshworks Newsroom; The Economic Times
+- **Quellen der Prüfung:** Freshworks Results-Seite; Freshworks Q1 2026 Results PDF; The Economic Times
 
 ## Detailrecherche
 
@@ -51,6 +51,6 @@ Die Meldung ist kein Börsenrauschen, sondern ein Hinweis auf einen tieferen Wan
 
 ## Quellen
 
-1. Reuters: [Freshworks to cut 11% jobs as AI reshapes software industry](https://www.reuters.com/business/freshworks-cut-11-jobs-ai-reshapes-software-sector-2026-05-05/) — belegt den Stellenabbau und den KI-Bezug.
-2. Freshworks Newsroom: [Q1 2026 results and AI-powered software updates](https://www.freshworks.com/company/newsroom) — verweist auf die Unternehmenskommunikation rund um die Quartalszahlen und Produktlinie.
+1. Freshworks Investor Relations: [Freshworks Reports First Quarter 2026 Results](https://ir.freshworks.com/news/news-details/2026/Freshworks-Reports-First-Quarter-2026-Results/default.aspx) — offizielle Ergebnisseite mit Quartals- und Restrukturierungskontext.
+2. Freshworks: [Freshworks Reports First Quarter 2026 Results](https://s21.q4cdn.com/987526491/files/doc_earnings/2026/q1/earnings-result/Earnings-Release-Q1-2026.pdf) — primäre Ergebnis-PDF mit Umsatz- und Restrukturierungsdetails.
 3. The Economic Times: [Freshworks cuts 500 jobs; Q1 revenue hits $228 million](https://m.economictimes.com/tech/technology/freshworks-cuts-500-jobs-q1-revenue-hits-228-million/articleshow/130841734.cms) — ergänzt Umsatz, Größenordnung und Restrukturierungskosten.

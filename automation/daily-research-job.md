@@ -41,23 +41,24 @@ Jeder potenzielle Treffer wird gegen vier Hauptkriterien geprüft:
 1. Relevante Themen recherchieren.
 2. Zu Beginn den aktuellen Wissensstand laden: `criteria/*.md`, `site/archetypes/journal.md`, `decisions.md`, `open-questions.md` und die zuletzt bearbeiteten Posts.
 3. Die Recherche mit mehreren Startpunkten beginnen: Primärquelle, unabhängige Berichtsquelle, ggf. dritte Einordnung.
-4. Aus der Initialmeldung eigene Folge-Suchanfragen ableiten, die Geschichte, Vergleichsfälle, Auswirkungen und regionale Unterschiede erschließen.
-5. Pro Thema eine Presseschau mit Quellen aus unterschiedlichen Rollen erstellen.
-5. Pro Thema eine **Recherchefrage** formulieren, die den Einzelfall zu einer überprüfbaren größeren Fragestellung verdichtet.
-6. Zu jeder Recherchefrage eine **Prüfidee** festhalten: Welche Primärquelle, welche unabhängige Berichtsquelle und welche Kontextquelle tragen die Antwort?
-7. Pro Thema zusätzliche, neu gesuchte Quellen für Hintergründe, Kontext und Detailrecherche sammeln.
-8. Bei älteren Themen nach Trends, Chronologien und langfristigen Erkenntnissen suchen.
-9. Für fernere Ereignisse die Tragweite klar belegen.
-10. Wenn möglich, ähnliche lokale Kleinereignisse vergleichen.
-11. Zahlen, Fristen, Vergleichswerte und Gegenbeispiele explizit prüfen und in die Argumentation einbauen.
-12. Pro Thema eine kritische und möglichst objektive Analyse schreiben.
-13. Die Schlussfolgerung am Ende der Analyse klar mit der Ausgangsfrage verknüpfen.
-14. Falls sinnvoll, Bilder, Daten, Tabellen oder Diagramme ergänzen.
-15. Eine kurze Relevanzbegründung formulieren, die auf einen konkreten Mechanismus verweist.
-16. 10 Beiträge auswählen, die das Kernkriterium erfüllen.
-17. Die Ergebnisse als Markdown-Journal-Einträge mit der Standardgliederung vorbereiten.
-18. Jeden Eintrag mit passenden Tags und ggf. Kategorien versehen.
-19. Die Inhalte in `site/content/journal/` ablegen.
+4. Bei Unternehmensquellen möglichst die konkrete News-, Event-, Filing- oder PDF-Seite verwenden; allgemeine IR-Startseiten nur als Fallback.
+5. Aus der Initialmeldung eigene Folge-Suchanfragen ableiten, die Geschichte, Vergleichsfälle, Auswirkungen und regionale Unterschiede erschließen.
+6. Pro Thema eine Presseschau mit Quellen aus unterschiedlichen Rollen erstellen.
+7. Pro Thema eine **Recherchefrage** formulieren, die den Einzelfall zu einer überprüfbaren größeren Fragestellung verdichtet.
+8. Zu jeder Recherchefrage eine **Prüfidee** festhalten: Welche Primärquelle, welche unabhängige Berichtsquelle und welche Kontextquelle tragen die Antwort?
+9. Pro Thema zusätzliche, neu gesuchte Quellen für Hintergründe, Kontext und Detailrecherche sammeln.
+10. Bei älteren Themen nach Trends, Chronologien und langfristigen Erkenntnissen suchen.
+11. Für fernere Ereignisse die Tragweite klar belegen.
+12. Wenn möglich, ähnliche lokale Kleinereignisse vergleichen.
+13. Zahlen, Fristen, Vergleichswerte und Gegenbeispiele explizit prüfen und in die Argumentation einbauen.
+14. Pro Thema eine kritische und möglichst objektive Analyse schreiben.
+15. Die Schlussfolgerung am Ende der Analyse klar mit der Ausgangsfrage verknüpfen.
+16. Falls sinnvoll, Bilder, Daten, Tabellen oder Diagramme ergänzen.
+17. Eine kurze Relevanzbegründung formulieren, die auf einen konkreten Mechanismus verweist.
+18. 10 Beiträge auswählen, die das Kernkriterium erfüllen.
+19. Die Ergebnisse als Markdown-Journal-Einträge mit der Standardgliederung vorbereiten.
+20. Jeden Eintrag mit passenden Tags und ggf. Kategorien versehen.
+21. Die Inhalte in `site/content/journal/` ablegen.
 
 ## Ausgaberegeln
 - Ein Beitrag pro Thema / Blogpost

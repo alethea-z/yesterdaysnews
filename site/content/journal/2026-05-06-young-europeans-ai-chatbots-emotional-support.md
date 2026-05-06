@@ -10,15 +10,15 @@ summary: "Die Nachricht ist mehr als ein Kulturtrend: Sie zeigt, wie schnell KI 
 
 ## Presseschau
 
-- **Reuters** berichtet, dass junge Europäer KI-Chatbots zunehmend auch für **emotionale Unterstützung** nutzen.
 - **The Independent** hebt hervor, dass viele Befragte Chatbots selbst bei mentalen Themen als leichter ansprechbar empfinden als Gesundheitsfachleute.
 - Die **APA** ordnet das als Teil eines breiteren Trends ein, bei dem digitale Begleiter emotionale Bindung und Sicherheitsrisiken zugleich erhöhen.
+- **The Next Web** ergänzt die gesellschaftliche Perspektive auf Chatbots als intime Gesprächspartner.
 
 ## Recherchefrage und Prüfidee
 
 - **Recherchefrage:** Ist die emotionale Nutzung von Chatbots ein neuer Jugendtrend oder eher eine neue Form altbekannter digitaler Selbsthilfe?
-- **Prüfidee:** Reuters mit The Independent und APA abgleichen; auf Altersgruppen, Nutzungskontexte und die Unterschiede zwischen Komfort, Bindung und Risiko achten.
-- **Quellen der Prüfung:** Reuters; The Independent; APA
+- **Prüfidee:** The Independent mit APA und The Next Web abgleichen; auf Altersgruppen, Nutzungskontexte und die Unterschiede zwischen Komfort, Bindung und Risiko achten.
+- **Quellen der Prüfung:** The Independent; APA; The Next Web
 
 ## Detailrecherche
 
@@ -53,6 +53,6 @@ Die Meldung ist typisch yesterdaysnews: Sie ist nicht bloß neu, sondern zeigt e
 
 ## Quellen
 
-1. Reuters: [Young Europeans turn to AI chatbots for emotional support, survey shows](https://www.reuters.com/technology/young-europeans-turn-ai-chatbots-emotional-support-survey-shows-2026-05-05/) — belegt die Nutzungsmuster junger Europäer.
-2. The Independent: [AI chatbots being used by young Europeans for emotional support, new survey finds](https://www.the-independent.com/tech/ai-chatbots-emotional-support-mental-health-europe-b2970730.html) — ergänzt die Einordnung von mentaler Unterstützung und Schutzbedarf.
-3. APA Monitor: [AI chatbots and digital companions are reshaping emotional ...](https://www.apa.org/monitor/2026/01-02/trends-digital-ai-relationships-emotional-connection) — ordnet die psychologische Dimension und mögliche Risiken ein.
+1. The Independent: [AI chatbots being used by young Europeans for emotional support, new survey finds](https://www.the-independent.com/tech/ai-chatbots-emotional-support-mental-health-europe-b2970730.html) — ergänzt die Einordnung von mentaler Unterstützung und Schutzbedarf.
+2. APA Monitor: [AI chatbots and wellness apps for mental health](https://www.apa.org/monitor/2026/2026-03-monitor.pdf) — ordnet die psychologische Dimension und mögliche Risiken ein.
+3. The Next Web: [Half of young Europeans turn to AI to talk about intimate matters](https://thenextweb.com/news/young-europeans-ai-chatbots-emotional-support-cause) — ergänzt die gesellschaftliche Perspektive auf Chatbots als intime Gesprächspartner.

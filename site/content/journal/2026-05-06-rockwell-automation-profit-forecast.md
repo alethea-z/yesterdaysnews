@@ -10,15 +10,15 @@ summary: "Rockwell Automation profitiert von der Nachfrage nach Automatisierung.
 
 ## Presseschau
 
-- **Reuters** berichtet, Rockwell Automation habe die Prognose für 2026 nach oben gesetzt.
 - Die **offizielle Ergebnismitteilung** nennt zweistelliges Umsatzwachstum, höhere Margen und einen kräftigen Anstieg bei Auftragseingängen.
+- Die **Earnings-Präsentation** bestätigt das Bild mit Umsatz-, Margen- und Auftragsdaten auf einen Blick.
 - **Zacks** ergänzt, dass die Zahlen die Markterwartungen übertroffen haben und damit die Nachfrage im Industriebereich bestätigen.
 
 ## Recherchefrage und Prüfidee
 
 - **Recherchefrage:** Ist die verbesserte Prognose ein Signal für einen breiten Industriezyklus oder eher für einzelne Automatisierungsnischen?
-- **Prüfidee:** Reuters mit der Rockwell-Ergebnismitteilung und der Marktreaktion vergleichen; auf Auftragseingänge, Margen und Branchenbreite achten.
-- **Quellen der Prüfung:** Reuters; Rockwell Automation Results; Zacks
+- **Prüfidee:** Rockwell-Ergebnismitteilung mit der Präsentation und der Marktreaktion vergleichen; auf Auftragseingänge, Margen und Branchenbreite achten.
+- **Quellen der Prüfung:** Rockwell Automation Results; Rockwell Automation Earnings Presentation; Zacks
 
 ## Detailrecherche
 
@@ -51,6 +51,6 @@ Das Thema ist ein guter Gegenpol zu reinen Chatbot-Nachrichten: Hier sieht man K
 
 ## Quellen
 
-1. Reuters: [Rockwell Automation raises 2026 profit forecast on automation demand](https://www.reuters.com/business/rockwell-automation-raises-2026-profit-forecast-automation-demand-2026-05-05/) — belegt die höhere Prognose.
-2. Rockwell Automation: [Reports Second Quarter 2026 Results](https://www.rockwellautomation.com/en-us/company/news/press-releases/Rockwell-Automation-Reports-Second-Quarter-2026-Results.html) — liefert die Primärquelle zu Umsatz, Margen und Auftragslage.
+1. Rockwell Automation: [Reports Second Quarter 2026 Results](https://www.rockwellautomation.com/en-us/company/news/press-releases/Rockwell-Automation-Reports-Second-Quarter-2026-Results.html) — liefert die Primärquelle zu Umsatz, Margen und Auftragslage.
+2. Rockwell Automation: [Q2 Fiscal 2026 Earnings Presentation](https://www.rockwellautomation.com/content/dam/rockwell-automation/documents/pdf/company/about-us/ir/2026/q2-2026-earnings-presentation.pdf) — zeigt die Kennzahlen und Guidance im Präsentationsformat.
 3. Zacks: [Rockwell Automation (ROK) Q2 Earnings and Revenues Top Estimates](https://www.zacks.com/stock/news/2914507/rockwell-automation-rok-q2-earnings-and-revenues-top-estimates) — ergänzt die Einordnung der Marktreaktion.

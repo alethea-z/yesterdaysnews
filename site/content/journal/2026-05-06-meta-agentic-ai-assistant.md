@@ -10,15 +10,15 @@ summary: "Meta treibt die nächste Phase von KI-Assistenten voran: personalisier
 
 ## Presseschau
 
-- **Reuters** berichtet, Meta arbeite an einem stark personalisierten **agentischen KI-Assistenten**.
-- Die **Financial Times** beschreibt den Plan als hochgradig personalisierten Assistenten, intern gestützt auf das neue Modell Muse Spark.
+- Die **Meta-AI-Produktseite** beschreibt den Assistenten bereits als personalisierten Zugang zu Suche, Empfehlungen und Alltagshilfe.
+- Die **Meta-AI-Startseite** verweist direkt auf Muse Spark und die Produktstrategie rund um personalisierte Assistenz.
 - **TechCrunch** ordnet Metas laufende Produktstrategie ein und verweist darauf, dass Meta KI bereits stärker in seine Business- und Messaging-Produkte einbettet.
 
 ## Recherchefrage und Prüfidee
 
 - **Recherchefrage:** Ist Metas Agenten-Assistent vor allem ein Komfortfeature oder der nächste Hebel für Plattformbindung und Datentiefe?
-- **Prüfidee:** Reuters mit der Financial Times und TechCrunch abgleichen; prüfen, welche Aufgaben autonom werden sollen und welche Datenflüsse dafür nötig sind.
-- **Quellen der Prüfung:** Reuters; Financial Times; TechCrunch
+- **Prüfidee:** Meta mit der Meta-AI-Startseite und TechCrunch abgleichen; prüfen, welche Aufgaben autonom werden sollen und welche Datenflüsse dafür nötig sind.
+- **Quellen der Prüfung:** Meta-AI-Produktseite; Meta-AI-Startseite; TechCrunch
 
 ## Detailrecherche
 
@@ -57,6 +57,6 @@ Der Schritt von „Antwortmaschine“ zu „ausführendem Assistenten“ ist ein
 
 ## Quellen
 
-1. Reuters: [Meta plans advanced 'agentic' AI assistant for users, FT reports](https://www.reuters.com/business/meta-plans-advanced-agentic-ai-assistant-users-ft-reports-2026-05-05/) — beschreibt den geplanten Assistenten.
-2. Financial Times: [Meta plans advanced 'agentic' AI assistant for consumers](https://www.ft.com/content/5b48360c-53f2-444a-80a8-f7034750fd62) — liefert den Ursprung der Meldung und den Produktkontext.
+1. Meta AI: [Your Personal AI Assistant](https://ai.meta.com/meta-ai/) — beschreibt die Produktrolle als personalisierten Assistenten.
+2. Meta AI: [AI at Meta](https://ai.meta.com/) — verweist auf die aktuelle Meta-AI-Produkt- und Modellstrategie.
 3. TechCrunch: [Meta says its business AI now facilitates 10 million conversations a week](https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/) — zeigt, wie Meta KI bereits produktiv in bestehende Produkte integriert.
