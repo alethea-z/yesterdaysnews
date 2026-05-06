@@ -9,9 +9,9 @@ categories: ["journal"]
 
 ## Presseschau
 
-- **Reuters** berichtete am 30. April, Schneider Electric habe die Quartalserwartungen leicht übertroffen, getrieben von der weltweiten Nachfrage nach AI-Data-Center-Infrastruktur.
+- **Schneider Electric** veröffentlichte am 30. April die Q1-2026-Zahlen und verwies auf ein starkes organisches Wachstum, getragen von Nachfrage aus dem Rechenzentrums- und Energiemanagement-Umfeld.
 - Besonders gefragt seien Stromverteilung, Kühlung und die Produkte rund um leistungsstarke Rechenzentren.
-- Reuters verwies zugleich darauf, dass der Markt für Liquid Cooling in den kommenden Jahren stark wachsen dürfte.
+- Das Unternehmen bestätigte zugleich die Bedeutung von Data-Center-Kunden für das Wachstum im ersten Quartal.
 
 ## Detailrecherche
 
@@ -38,4 +38,4 @@ Für yesterdaysnews ist das ein sauberer Fit: zeitlich frisch, fachlich klar, mi
 ## Quellen
 
 1. Reuters: [Schneider Electric tops revenue forecast as it rides AI data centre wave](https://www.reuters.com/business/schneider-electric-tops-revenue-forecast-it-rides-ai-data-centre-wave-2026-04-30/)
-2. Reuters: [The Week in Numbers: big tech spends big on AI, oil marches on](https://www.reuters.com/video/watch/idRW712501052026RP1/?chan=business)
+2. Schneider Electric: [Schneider Electric Q1 2026 Revenues](https://www.se.com/ww/en/assets/pdf/release-q1-revenues-2026) — Primärquelle zu Umsatz, Data-Center-Nachfrage und Guidance.

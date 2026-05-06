@@ -11,3 +11,7 @@
 | 2026-05-05 | GitHub Actions auf `hugo-version: latest` umgestellt, weil Stack eine neuere Hugo-API erwartet. | Der Build läuft jetzt erfolgreich auf GitHub mit kompatibler Hugo-Version. |
 | 2026-05-05 | Logo oben links angelegt und Stack-Widgets für Archives, Categories und Tags auf der rechten Seite aktiviert. | Die Seite hat jetzt ein visuelles Markenzeichen und die gewünschte Sidebar-Struktur. |
 | 2026-05-05 | Relevanzkriterien in drei Achsen aufgeteilt: zeitliche Relevanz, örtliche Nähe und fachliche Themen. | Die Recherche bekommt eine klarere Bewertungs- und Priorisierungslogik. |
+| 2026-05-06 | Nightly-Agent auf Phasenbetrieb mit `lightContext` umgestellt; Ziel ist weniger Kontextdruck, bessere Fehlersignale und stabilere Ausführung. | Der bisherige Lauf brach an Context Overflow und mehreren problematischen URLs ab. |
+| 2026-05-06 | Der alte Platzhalter-Job `yesterdaysnews daily research` wurde entfernt, damit nur noch ein klarer Nachlauf definiert ist. | Verhindert Verwechslungen beim Debugging und bei der Cron-Übersicht. |
+| 2026-05-06 | `scripts/source_lint.py` wurde entschärft; nur wirklich generische Stopwords bleiben in der Relevanzheuristik. | Der Linter liefert weniger falsche Relevanzwarnungen und ist als Diagnosehilfe brauchbarer. |
+| 2026-05-06 | Zwei bestehende Journal-Posts wurden auf belastbarere bzw. thematisch deutlichere Quellenbezüge nachgeschärft. | Der Quellenlinter ist ruhiger geworden, und die Posts sind sauberer eingeordnet. |

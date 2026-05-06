@@ -23,12 +23,13 @@ from urllib.error import HTTPError, URLError
 ROOT = Path(__file__).resolve().parents[1]
 JOURNAL = ROOT / "site" / "content" / "journal"
 
+# Keep only truly generic function words here. Topic words are intentionally
+# *not* stopwords because the linter uses short titles and slugs as a relevance hint.
 STOPWORDS = {
     "der", "die", "das", "und", "oder", "ein", "eine", "einer", "eines", "einem", "einen",
     "the", "and", "for", "from", "with", "about", "what", "why", "wie", "warum", "wieso",
-    "eu", "usa", "us", "deutschland", "leipzig", "news", "act", "rules", "rules", "rules",
-    "warns", "warning", "why", "zählt", "zählen", "kommt", "nicht", "mehr", "jetzt", "neu",
-    "reuters", "meta", "huawei", "zte", "ai", "act", "dsa", "dhl", "tesla", "kla", "post",
+    "news", "rules", "warns", "warning", "zählt", "zählen", "kommt", "nicht", "mehr", "jetzt", "neu",
+    "post",
 }
 
 SECTION_RE = re.compile(r"^##\s+(.+?)\s*$", re.M)

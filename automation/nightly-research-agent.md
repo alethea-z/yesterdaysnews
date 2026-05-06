@@ -3,6 +3,16 @@
 ## Mission
 Recherchiere jede Nacht für **yesterdaysnews** relevante Themen und schreibe pro Thema genau einen Blogpost als Markdown-Datei in `site/content/journal/`.
 
+## Laufprinzip
+Der Nachtlauf arbeitet bewusst in kleinen, überprüfbaren Phasen:
+1. Themen auswählen und auf Relevanz prüfen
+2. Quellen je Thema sammeln und grob validieren
+3. Pro Thema einen Beitrag schreiben
+4. `python3 scripts/source_lint.py` ausführen
+5. Erst bei grünem Check committen und pushen
+
+Wenn eine Phase zu groß wird, den Lauf in kleinere Batches splitten und den nächsten Batch separat bearbeiten.
+
 ## Arbeitsziel
 - 10 relevante Themen identifizieren
 - Pro Thema einen vollständigen Blogpost erstellen
@@ -30,12 +40,14 @@ Bewerte jedes Thema entlang von:
 ## Arbeitsweise
 - Recherchiere möglichst mit Primärquellen.
 - Presse-/Quellenüberblick zuerst, dann Detailrecherche.
+- URL vor dem Schreiben kurz prüfen; offensichtliche 404/410-Quellen sofort ersetzen.
 - Wenn ein Thema älter ist, erweitere es zu einer zeitlichen Entwicklung oder belastbaren Einordnung.
 - Wenn ein Ereignis fern ist, belege die Relevanz für Leipzig und den jeweiligen Raum.
 - Wenn mehrere kleine Fälle ein Muster bilden, erkläre das mit Quellen und Fakten.
 - Jede Quellenangabe muss im Quellenblock mit einer kurzen Relevanz-Notiz versehen sein, damit der Bezug zum Thema klar bleibt.
 - Reuse von URLs über Posts hinweg nur dann, wenn es wirklich dieselbe Quelle für dasselbe Thema ist.
 - Vor Commit und Push `python3 scripts/source_lint.py` ausführen und alle harten Fehler beheben; Warnungen bewusst prüfen.
+- Bei Fehlern knappe, technische Diagnose notieren: Phase, Ursache, betroffene URL oder Datei, und der nächste Korrekturschritt.
 
 ## Output pro Thema
 - Titel

@@ -1,15 +1,15 @@
 ---
-title: "Meta: EU rügt Schutz von Minderjährigen auf Facebook und Instagram"
+title: "Digital Services Act: EU rügt Metas Schutz Minderjähriger auf Facebook und Instagram"
 date: 2026-05-05T03:00:00+02:00
 lastmod: 2026-05-05T03:00:00+02:00
-description: "Die EU rügt Meta wegen unzureichender Schutzmaßnahmen für Minderjährige."
+description: "Die EU rügt Meta wegen unzureichender Schutzmaßnahmen für Minderjährige unter dem Digital Services Act."
 tags: ["Meta", "DSA", "Kinderschutz", "Plattformen"]
 categories: ["journal"]
 ---
 
 ## Presseschau
 
-- Die **EU-Kommission** stellte am 29. April vorläufig fest, dass Instagram und Facebook gegen den Digital Services Act verstoßen könnten, weil sie Minderjährige unter 13 Jahren nicht ausreichend fernhalten.
+- Die **EU-Kommission** stellte am 29. April vorläufig fest, dass Instagram und Facebook gegen den **Digital Services Act (DSA)** verstoßen könnten, weil sie Minderjährige unter 13 Jahren nicht ausreichend fernhalten.
 - **Reuters** meldete parallel, dass die Plattformen ihre Altersprüfung und das Entfernen von Minderjährigen unzureichend organisiert hätten.
 - Die Kommission verweist auf den Maßstab der DSA-Leitlinien zum Schutz Minderjähriger und droht bei Bestätigung mit empfindlichen Strafen.
 
