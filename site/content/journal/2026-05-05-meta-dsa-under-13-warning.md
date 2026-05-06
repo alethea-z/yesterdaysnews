@@ -35,5 +35,5 @@ Für Leipzig ist das relevant, weil Schulen, Jugendhilfe, Eltern, Medienpädagog
 
 ## Quellen
 
-1. European Commission: [Commission preliminarily finds Meta in breach of Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_920)
-2. Reuters: [Facebook, Instagram charged with breaching rules, must do more to protect kids below 13, EU says](https://www.reuters.com/sustainability/boards-policy-regulation/facebook-instagram-charged-with-breaching-rules-must-do-more-protect-kids-below-2026-04-29/)
+1. European Commission: [Meta DSA under-13 warning: Commission preliminarily finds Meta in breach of Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_920)
+2. Reuters: [Meta DSA under-13 warning: Facebook, Instagram charged with breaching rules, must do more to protect kids below 13, EU says](https://www.reuters.com/sustainability/boards-policy-regulation/facebook-instagram-charged-with-breaching-rules-must-do-more-protect-kids-below-2026-04-29/)

@@ -37,5 +37,5 @@ Diese Meldung ist der klassische yesterdaysnews-Fall: alt genug, dass der erste 
 
 ## Quellen
 
-1. Reuters: [German economy grows in Q1 but unemployment climbs above 3 million](https://www.reuters.com/world/europe/german-economy-grows-by-0-3-in-first-quarter-preliminary-data-shows-2026-04-30/)
-2. Reuters: [Germany's economy grows in Q1 but unemployment climbs above 3 million](https://www.rte.ie/news/business/2026/0430/1571037-german-first-quarter-gdp-figures/)
+1. Reuters: [Germany Q1 growth, unemployment breaks 3M: German economy grows in Q1 but unemployment climbs above 3 million](https://www.reuters.com/world/europe/german-economy-grows-by-0-3-in-first-quarter-preliminary-data-shows-2026-04-30/)
+2. Reuters: [Germany Q1 growth, unemployment breaks 3M: Germany's economy grows in Q1 but unemployment climbs above 3 million](https://www.rte.ie/news/business/2026/0430/1571037-german-first-quarter-gdp-figures/)
