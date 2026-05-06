@@ -14,6 +14,12 @@ categories: ["journal"]
 - **Destatis** bestätigte das Quartalsplus ebenfalls; zugleich lag die Arbeitslosigkeit im April weiter über der Marke von 3 Millionen.
 - Als Treiber nannte Reuters vor allem Konsum, Staatsausgaben und Exporte; als Gegenwind unter anderem den Energiepreisschock durch den Iran-Krieg.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist das Quartalswachstum breit getragen oder nur ein Zwischenhoch neben einem weiterhin fragilen Arbeitsmarkt?
+- **Prüfidee:** Reuters mit Destatis und der Bundesagentur für Arbeit abgleichen; auf Wachstumsquellen, saisonbereinigte Arbeitslosigkeit und symbolische Schwellen achten.
+- **Quellen der Prüfung:** Reuters; Destatis; Bundesagentur für Arbeit
+
 ## Detailrecherche
 
 | Indikator | Beobachtung | Lesart |
@@ -39,4 +45,4 @@ Diese Meldung ist der klassische yesterdaysnews-Fall: alt genug, dass der erste 
 ## Quellen
 
 1. Reuters: [Germany Q1 growth, unemployment breaks 3M: German economy grows in Q1 but unemployment climbs above 3 million](https://www.reuters.com/world/europe/german-economy-grows-by-0-3-in-first-quarter-preliminary-data-shows-2026-04-30/)
-2. Destatis: [Gross domestic product in the 1st quarter of 2026 up 0.3% on the previous quarter](https://www.destatis.de/EN/Press/2026/04/PE26_153_811.html)
+2. Destatis: [Germany Q1 growth and unemployment data](https://www.destatis.de/EN/Press/2026/04/PE26_153_811.html) — belegt das Quartalsplus und den statistischen Rahmen.

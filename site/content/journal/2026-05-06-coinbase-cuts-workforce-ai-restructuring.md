@@ -14,6 +14,12 @@ summary: "Der Stellenabbau bei Coinbase zeigt, wie Unternehmen KI nicht nur in P
 - **Business Insider** veröffentlicht Auszüge aus Brian Armstrongs Memo, in dem er beschreibt, wie KI aus Tagen wieder Stunden und aus Wochen Tage machen kann.
 - **CoinDesk** ordnet die Kürzung als Mischung aus Marktdruck, Kostendisziplin und KI-getriebener Umstrukturierung ein.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Sind die Coinbase-Kürzungen primär ein KI-Effekt oder eher ein Mix aus Kryptomarkt, Kostendruck und Reorganisation?
+- **Prüfidee:** Reuters mit dem CEO-Memo, Business Insider und CoinDesk abgleichen; auf die getrennten Faktoren AI, Marktzyklus und Kostenbasis achten.
+- **Quellen der Prüfung:** Reuters; Brian Armstrong Memo / Business Insider; CoinDesk
+
 ## Detailrecherche
 
 Der Zusammenhang zwischen KI und Stellenabbau ist kein Coinbase-Sonderfall. Seit dem jüngsten KI-Schub wird in vielen digitalen Unternehmen ähnlich argumentiert: Routinearbeit soll automatisiert, Teams sollen kleiner und Entscheidungswege schneller werden. Coinbase reiht sich damit in einen breiteren Umbau in Tech, Fintech und SaaS ein.

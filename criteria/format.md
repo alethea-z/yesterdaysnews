@@ -23,13 +23,18 @@ Jedes recherchierte Thema wird als eigener Blogpost ausgearbeitet. Die Tonalitä
    - jede Quelle in einem eigenen Satz oder Bullet sinngemäß zusammengefasst
    - Beispiele: „Quelle A meldet ...“, „Quelle B ergänzt ...“, „Quelle C ordnet ein ...“
    - konkrete Links auf möglichst die Originalquellen
-3. **Hintergründe und Detailrecherche**
+3. **Recherchefrage und Prüfidee**
+   - das Thema zuerst in eine klare, überprüfbare Forschungsfrage übersetzen
+   - die maßgeblichen Primär-, Berichts- und Kontextquellen explizit nennen
+   - Zahlen, Fristen, Vergleichswerte und Gegenbeispiele mitprüfen
+   - nur belastbare regionale oder gruppenspezifische Unterschiede erwähnen
+4. **Hintergründe und Detailrecherche**
    - das Einzelereignis zunächst zu einer breiteren Fragestellung verallgemeinern
    - zusätzliche Fakten, Chronologie und Vorläufer
    - belastbare Einordnung aus weiteren Quellen
    - Unterschiede nach Region, Bevölkerungsgruppe oder institutionellem Kontext, wenn belegbar
    - ähnliche Auswirkungen in verwandten Bereichen mit recherchieren
-4. **Analyse**
+5. **Analyse**
    - kritisch reflektiert
    - möglichst objektiv und ohne Hype
    - Hinweise auf Unsicherheiten, offene Fragen oder Gegenpositionen

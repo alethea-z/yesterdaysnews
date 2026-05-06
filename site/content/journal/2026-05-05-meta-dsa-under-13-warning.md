@@ -13,6 +13,12 @@ categories: ["journal"]
 - **Reuters** meldete parallel, dass die Plattformen ihre Altersprüfung und das Entfernen von Minderjährigen unzureichend organisiert hätten.
 - Die Kommission verweist auf den Maßstab der DSA-Leitlinien zum Schutz Minderjähriger und droht bei Bestätigung mit empfindlichen Strafen.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist die DSA-Rüge gegen Meta ein Einzelfall oder ein Zeichen dafür, dass Alterskontrolle bei Plattformen in Europa systematisch härter wird?
+- **Prüfidee:** EU-Kommission, Reuters und die DSA-Leitlinien zum Minderjährigenschutz gegeneinander prüfen; auf konkrete Altersprüfung, Meldemechanismen und Sanktionslogik achten.
+- **Quellen der Prüfung:** European Commission; Reuters; DSA-Leitlinien zum Schutz Minderjähriger
+
 ## Detailrecherche
 
 | Thema | Was die EU kritisiert | Praktische Folge |

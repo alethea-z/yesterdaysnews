@@ -14,6 +14,12 @@ categories: ["journal"]
 - **Reuters** verwies in der Folgeberichterstattung auf lokale Angaben von **Radio Leipzig** und **MDR**; dort war von einem Fahrer in Gewahrsam und weiteren Verletzten die Rede.
 - Die internationale Berichterstattung übernahm schnell die Leipziger Perspektive: nicht nur Tat und Opfer, sondern auch die Frage, wie robust öffentliche Räume gegen solche Dynamiken sind.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist der Leipziger Angriff ein isoliertes Ereignis oder ein Beispiel für wiederkehrende Sicherheitsprobleme in offenen Innenstädten?
+- **Prüfidee:** Reuters mit lokalen Berichten von MDR bzw. Radio Leipzig und den Polizeiinformationen vergleichen; den zeitlichen Ablauf, Verletztenzahlen und die Kommunikationslage gegeneinander prüfen.
+- **Quellen der Prüfung:** Reuters; MDR / Radio Leipzig; Polizei Sachsen
+
 ## Detailrecherche
 
 | Beobachtung | Einordnung | Warum relevant |

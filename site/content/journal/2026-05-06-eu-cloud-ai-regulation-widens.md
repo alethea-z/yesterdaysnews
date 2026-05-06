@@ -14,6 +14,12 @@ summary: "Die EU will ihre Wettbewerbs- und Plattformregeln stärker auf Cloud-D
 - Der politische Fokus verschiebt sich damit weg von der reinen Plattformlogik hin zu Infrastruktur, Rechenleistung und Zugang zu Basisschichten der digitalen Wirtschaft.
 - Die Meldung passt in eine breitere Linie der EU, die KI-Regeln und Digitalpolitik enger mit Wettbewerbs- und Infrastrukturfragen verknüpft.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Verschiebt die EU ihre Tech-Kontrolle tatsächlich von Apps zu Infrastruktur, oder ist das nur neue Rhetorik?
+- **Prüfidee:** Reuters mit der EU-AI-Act-Seite und den Wettbewerbs-/DMA-Unterlagen abgleichen; prüfen, welche Infrastrukturhebel und Marktmachtfragen konkret genannt werden.
+- **Quellen der Prüfung:** Reuters; European Commission AI Act-Seite; EU-Wettbewerbs-/DMA-Unterlagen
+
 ## Detailrecherche
 
 Die Entwicklung ist nicht neu, sondern Teil einer längeren Verschiebung: Schon mit dem DMA, der DSA-Debatte und dem AI Act wurde deutlich, dass die EU digitale Macht nicht nur auf App-Ebene betrachtet. Cloud und KI ziehen diese Logik eine Stufe tiefer in die Infrastruktur.

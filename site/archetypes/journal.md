@@ -13,6 +13,13 @@ summary: ""
 - **Quelle B** ergänzt Zahlen, Folgen oder Gegenperspektiven.
 - **Quelle C** ordnet ein oder beschreibt den institutionellen Rahmen.
 
+## Recherchefrage und Prüfidee
+
+- Die Meldung zuerst in eine präzise, überprüfbare Forschungsfrage übersetzen.
+- Dazu ausdrücklich benennen, welche Primärquelle, welche unabhängige Berichtsquelle und welche Kontextquelle die Antwort tragen sollen.
+- Zahlen, Fristen, Vergleichswerte und Gegenbeispiele gezielt prüfen, bevor Schlussfolgerungen gezogen werden.
+- Unterschiedliche regionale oder gruppenspezifische Wahrnehmungen nur dann erwähnen, wenn sie quellenbasiert sichtbar werden.
+
 ## Hintergründe und Detailrecherche
 
 - Das Thema zunächst grob verallgemeinern: Was ist hier die eigentliche Entwicklung, nicht nur der Einzelfall?

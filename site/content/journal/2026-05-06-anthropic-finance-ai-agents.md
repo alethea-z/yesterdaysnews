@@ -14,6 +14,12 @@ summary: "Anthropic erweitert den KI-Einsatz im Finanzsektor mit spezialisierten
 - **Anthropic** beschreibt die Templates als einsatzbereit für Financial-Services-Workflows; die Agenten sollen etwa Pitchbooks, KYC-Prüfungen und operative Recherchearbeit übernehmen.
 - Die Meldung verschiebt den Blick von allgemeiner Chat-KI zu spezialisierten Arbeitswerkzeugen für regulierte Prozesse.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist Finanz-KI bereits reif für produktive Agenten oder vor allem ein kontrollierter Pilotmarkt für gut verpackte Templates?
+- **Prüfidee:** Reuters mit Anthropic selbst und den Webinar-/Produktseiten abgleichen; prüfen, welche Workflows wirklich adressiert werden und wo Kontrolle, Audit und Freigabe bleiben.
+- **Quellen der Prüfung:** Reuters; Anthropic finance-agents page; Anthropic Webinar zu Financial Services
+
 ## Detailrecherche
 
 Der Einsatz von KI in Finanzprozessen ist älter als der aktuelle Agenten-Hype. Schon vor den jüngsten Produktankündigungen wurden Systeme für Analyse, Dokumentensichtung, Risikoerkennung, KYC und Compliance eingesetzt. Neu ist vor allem, dass diese Arbeit jetzt stärker in vorgefertigte, rollenbasierte Agenten übersetzt wird.

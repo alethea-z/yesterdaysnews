@@ -14,6 +14,12 @@ summary: "Der Stellenabbau bei Freshworks ist ein frühes Zeichen dafür, wie st
 - Der **Freshworks-Newsroom** verweist parallel auf die Quartalszahlen und die laufende Produktlinie rund um AI-powered Software; **The Economic Times** ergänzt Umsatzplus und Restrukturierungskosten.
 - Die Meldung zeigt, dass KI im SaaS-Markt nicht nur Produkte, sondern auch Personal- und Kostenstrukturen verschiebt.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Sind die Freshworks-Kürzungen ein reiner KI-Nebeneffekt oder Teil eines breiteren SaaS-Umbaus mit Kosten- und Produktdruck?
+- **Prüfidee:** Reuters mit dem Freshworks-Newsroom und der Wirtschaftsberichterstattung abgleichen; Zahlen zu Stellenabbau, Umsatz und Restrukturierung getrennt betrachten.
+- **Quellen der Prüfung:** Reuters; Freshworks Newsroom; The Economic Times
+
 ## Detailrecherche
 
 Freshworks ist kein Einzelfall. KI verändert gerade nicht nur die Produkte, sondern auch die interne Organisation von Softwareanbietern. Support, Workflow-Automation und IT-Service-Management sind genau die Bereiche, in denen KI als Ersatz oder Verstärker auftritt.
@@ -46,5 +52,5 @@ Die Meldung ist kein Börsenrauschen, sondern ein Hinweis auf einen tieferen Wan
 ## Quellen
 
 1. Reuters: [Freshworks to cut 11% jobs as AI reshapes software industry](https://www.reuters.com/business/freshworks-cut-11-jobs-ai-reshapes-software-sector-2026-05-05/) — belegt den Stellenabbau und den KI-Bezug.
-2. Freshworks Newsroom: [Press Releases](https://www.freshworks.com/company/newsroom) — verweist auf die Unternehmenskommunikation rund um die Quartalszahlen und Produktlinie.
+2. Freshworks Newsroom: [Q1 2026 results and AI-powered software updates](https://www.freshworks.com/company/newsroom) — verweist auf die Unternehmenskommunikation rund um die Quartalszahlen und Produktlinie.
 3. The Economic Times: [Freshworks cuts 500 jobs; Q1 revenue hits $228 million](https://m.economictimes.com/tech/technology/freshworks-cuts-500-jobs-q1-revenue-hits-228-million/articleshow/130841734.cms) — ergänzt Umsatz, Größenordnung und Restrukturierungskosten.

@@ -14,6 +14,12 @@ summary: "Rockwell Automation profitiert von der Nachfrage nach Automatisierung.
 - Die **offizielle Ergebnismitteilung** nennt zweistelliges Umsatzwachstum, höhere Margen und einen kräftigen Anstieg bei Auftragseingängen.
 - **Zacks** ergänzt, dass die Zahlen die Markterwartungen übertroffen haben und damit die Nachfrage im Industriebereich bestätigen.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist die verbesserte Prognose ein Signal für einen breiten Industriezyklus oder eher für einzelne Automatisierungsnischen?
+- **Prüfidee:** Reuters mit der Rockwell-Ergebnismitteilung und der Marktreaktion vergleichen; auf Auftragseingänge, Margen und Branchenbreite achten.
+- **Quellen der Prüfung:** Reuters; Rockwell Automation Results; Zacks
+
 ## Detailrecherche
 
 Automatisierung ist in der Industrie nie verschwunden. Neu ist, dass KI als zusätzlicher Beschleuniger dazukommt: bessere Analyse, flexiblere Steuerung, schnelleres Engineering und neue Assistenzsysteme.

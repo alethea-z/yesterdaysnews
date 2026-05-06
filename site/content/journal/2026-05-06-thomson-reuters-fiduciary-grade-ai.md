@@ -14,6 +14,12 @@ summary: "Thomson Reuters schärft die Positionierung seiner KI-Produkte über V
 - Die **Thomson-Reuters-Earnings-Präsentation** betont ebenfalls „fiduciary-grade AI“ und ordnet die Produktadoption in regulierten Branchen ein.
 - Die Meldung zeigt damit den Übergang von KI als Demo zu KI als verantwortbares Fachwerkzeug.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist 'fiduciary-grade AI' ein echter Marktstandard oder vor allem eine Positionierung für vertrauensbasierte Wissensarbeit?
+- **Prüfidee:** Reuters mit der Thomson-Reuters-Earnings-Präsentation und den CoCounsel-Materialien abgleichen; auf Produktnutzung, Regulierung und Nachweisbarkeit achten.
+- **Quellen der Prüfung:** Reuters; Thomson Reuters Q1 2026 Earnings Presentation; Thomson Reuters CoCounsel-Materialien
+
 ## Detailrecherche
 
 Die Forderung nach belastbarer, nachvollziehbarer KI ist älter als der aktuelle Hype. In Rechts-, Steuer- und Wissensarbeit taucht sie seit Jahren immer wieder auf — meist dort, wo Fehler teuer werden und Nachweise Pflicht sind.
@@ -46,5 +52,4 @@ Das Thema zeigt, wohin sich ein Teil des KI-Markts bewegt: weg vom Massen-Chatbo
 ## Quellen
 
 1. Reuters: [Thomson Reuters reaffirms forecasts, highlights 'fiduciary-grade AI' demand](https://www.reuters.com/business/thomson-reuters-first-quarter-revenue-rises-10-reaffirms-full-year-forecast-2026-05-05/) — belegt die Marktpositionierung und Nachfrage.
-2. Thomson Reuters: [Q1 2026 Earnings Presentation](https://investors.thomsonreuters.com/static-files/4c62d2b4-40ee-424d-a8c3-8594851fd54e) — enthält den Begriff „fiduciary-grade AI“ im offiziellen Earnings-Material.
-3. Thomson Reuters: [From Legal AI Experiments to Execution: What CoCounsel Changes](https://www.thomsonreuters.com/en-us/posts/innovation/from-legal-ai-experiments-to-execution-what-cocounsel-changes/) — beschreibt die Produkt- und Nutzungslogik von CoCounsel.
+2. Thomson Reuters: [CoCounsel adoption in regulated industries](https://www.thomsonreuters.com/en/press-releases/2026/february/one-million-professionals-turn-to-cocounsel-as-thomson-reuters-scales-ai-for-regulated-industries) — zeigt den Produkt- und Nutzungsrahmen in regulierten Branchen.

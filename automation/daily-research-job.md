@@ -41,13 +41,17 @@ Jeder potenzielle Treffer wird gegen vier Hauptkriterien geprüft:
 1. Relevante Themen recherchieren.
 2. Die Recherche mit mehreren Startpunkten beginnen: Primärquelle, unabhängige Berichtsquelle, ggf. dritte Einordnung.
 3. Pro Thema eine Presseschau mit Quellen aus unterschiedlichen Rollen erstellen.
-4. Pro Thema zusätzliche Hintergründe, Kontext und Detailrecherche sammeln.
-5. Bei älteren Themen nach Trends, Chronologien und langfristigen Erkenntnissen suchen.
-6. Für fernere Ereignisse die Tragweite klar belegen.
-7. Wenn möglich, ähnliche lokale Kleinereignisse vergleichen.
-8. Pro Thema eine kritische und möglichst objektive Analyse schreiben.
-9. Falls sinnvoll, Bilder, Daten, Tabellen oder Diagramme ergänzen.
-10. Eine kurze Relevanzbegründung formulieren, die auf einen konkreten Mechanismus verweist.
+4. Pro Thema eine **Recherchefrage** formulieren, die den Einzelfall zu einer überprüfbaren größeren Fragestellung verdichtet.
+5. Zu jeder Recherchefrage eine **Prüfidee** festhalten: Welche Primärquelle, welche unabhängige Berichtsquelle und welche Kontextquelle tragen die Antwort?
+6. Pro Thema zusätzliche Hintergründe, Kontext und Detailrecherche sammeln.
+7. Bei älteren Themen nach Trends, Chronologien und langfristigen Erkenntnissen suchen.
+8. Für fernere Ereignisse die Tragweite klar belegen.
+9. Wenn möglich, ähnliche lokale Kleinereignisse vergleichen.
+10. Zahlen, Fristen, Vergleichswerte und Gegenbeispiele explizit prüfen und in die Argumentation einbauen.
+11. Pro Thema eine kritische und möglichst objektive Analyse schreiben.
+12. Die Schlussfolgerung am Ende der Analyse klar mit der Ausgangsfrage verknüpfen.
+13. Falls sinnvoll, Bilder, Daten, Tabellen oder Diagramme ergänzen.
+14. Eine kurze Relevanzbegründung formulieren, die auf einen konkreten Mechanismus verweist.
 11. 10 Beiträge auswählen, die das Kernkriterium erfüllen.
 12. Die Ergebnisse als Markdown-Journal-Einträge mit der Standardgliederung vorbereiten.
 13. Jeden Eintrag mit passenden Tags und ggf. Kategorien versehen.

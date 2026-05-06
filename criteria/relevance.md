@@ -34,6 +34,7 @@ Die Recherche soll nicht nur einzelne Nachrichten sammeln, sondern prüfen:
 - ob sich aus vielen kleinen Fällen eine allgemeine Entwicklung ableiten lässt
 - ob sich die öffentliche Sicht auf das Thema über Zeit, Regionen oder Bevölkerungsgruppen unterscheidet
 - ob die Meldung Michaels relevante Arbeitsfelder tatsächlich berührt
+- ob die zugrunde liegende Forschungsfrage mit Quellen und Zahlen sauber beantwortet werden kann
 
 ## Bewertungsfragen
 - Welcher konkrete Prozess, welches Produkt oder welche Entscheidung ändert sich durch die Meldung?

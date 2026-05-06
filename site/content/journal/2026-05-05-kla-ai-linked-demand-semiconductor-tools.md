@@ -14,6 +14,12 @@ categories: ["journal"]
 - Die **KLA-IR-Mitteilung** bestätigte die Zahlen mit einem Umsatz von 3,415 Milliarden US-Dollar, starkem Cashflow und einem weiteren Dividendenschritt.
 - Im Earnings-Call hob das Unternehmen vor allem **Advanced Packaging** und Prozesskontrolle als Wachstumstreiber hervor.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist die Nachfrage bei KLA ein breiter KI-Zyklus oder vor allem ein Signal für Advanced Packaging und Prozesskontrolle?
+- **Prüfidee:** Reuters gegen die KLA-IR-Mitteilung und den Earnings-Call prüfen; Zahlen zu Umsatz, Cashflow und Segmenttreibern auf ihre Aussagekraft für den Zyklus abklopfen.
+- **Quellen der Prüfung:** Reuters; KLA Corporation IR; KLA Earnings Call / 8-K
+
 ## Detailrecherche
 
 | Punkt | Beobachtung | Bedeutung |

@@ -30,7 +30,8 @@ Die Zusatzrecherche soll dann gezielt prüfen:
 - wie lange das Thema bereits sichtbar ist,
 - in welchen angrenzenden Bereichen ähnliche Effekte auftreten,
 - ob sich Wahrnehmung oder Wirkung nach Region, Zielgruppe oder Institution unterscheiden,
-- ob es Gegenbeispiele oder Gegenpositionen gibt.
+- ob es Gegenbeispiele oder Gegenpositionen gibt,
+- ob Zahlen, Fristen und Vergleichswerte die Ausgangsthese wirklich tragen.
 Wenn nur eine Quelle verfügbar ist, muss das offen gesagt werden; dann darf nicht so getan werden, als gäbe es bereits ein breites Quellenbild.
 
 ## Weniger geeignet

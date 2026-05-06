@@ -14,6 +14,12 @@ categories: ["journal"]
 - **The Next Web** ordnete das als Ausweitung der alten 5G-Sicherheitslogik auf die breitere digitale Infrastruktur ein; die politische Linie wird damit deutlich härter.
 - China drohte laut Reuters bereits mit Gegenmaßnahmen, falls die Regeln angewendet werden.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist die Huawei/ZTE-Warnung ein Einzelfall oder Teil einer längeren Verlagerung von 5G-Sicherheitslogik auf die gesamte Konnektivitätsinfrastruktur?
+- **Prüfidee:** Reuters gegen die EU-Kommunikation und die Einordnung durch Fachmedien prüfen; vergleichen, ob 5G-Logik nur erweitert oder tatsächlich verschärft wird.
+- **Quellen der Prüfung:** Reuters; European Commission; The Next Web
+
 ## Detailrecherche
 
 | Ebene | Beobachtung | Konsequenz |

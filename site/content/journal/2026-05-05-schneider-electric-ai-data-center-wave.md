@@ -13,6 +13,12 @@ categories: ["journal"]
 - Besonders gefragt seien Stromverteilung, Kühlung und die Produkte rund um leistungsstarke Rechenzentren.
 - Das Unternehmen bestätigte zugleich die Bedeutung von Data-Center-Kunden für das Wachstum im ersten Quartal.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist das Rechenzentrumsgeschäft nur ein Wachstumssegment oder ein Beleg dafür, dass KI die Infrastrukturmärkte dauerhaft verschiebt?
+- **Prüfidee:** Reuters mit der Schneider-Electric-Ergebnismitteilung abgleichen; auf Umsatztreiber, Data-Center-Anteil, Kühlung und Stromverteilung achten.
+- **Quellen der Prüfung:** Reuters; Schneider Electric Q1 2026 Revenues; Schneider Electric Investor Materials
+
 ## Detailrecherche
 
 | Beobachtung | Aussage | Implikation |

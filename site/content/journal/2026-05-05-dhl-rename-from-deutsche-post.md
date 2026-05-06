@@ -14,6 +14,12 @@ categories: ["journal"]
 - Die **DHL Group** hatte die geplante Umbenennung bereits in die Tagesordnung aufgenommen; damit wird ein Markenname, der operativ längst dominiert, auch juristisch nachgezogen.
 - Laut Konzernunterlagen ist der Beschluss Teil der länger laufenden Struktur- und Markenvereinheitlichung und soll nach der Abstimmung in das Handelsregister einfließen.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist die Umbenennung nur Markenpflege oder ein Marker für die operative und digitale Vereinheitlichung des Konzerns?
+- **Prüfidee:** Reuters gegen die DHL-AGM-Unterlagen und die Konzernseiten prüfen; Registerschritt, Markenwechsel und Aussagen zum Geschäftsmix gegeneinander halten.
+- **Quellen der Prüfung:** Reuters; DHL Annual General Meeting-Seite; Konzernunterlagen zur Umbenennung
+
 ## Detailrecherche
 
 | Punkt | Beobachtung | Bedeutung |
@@ -41,4 +47,4 @@ Das ist ein gutes Beispiel für eine Meldung, die auf den ersten Blick nach Corp
 ## Quellen
 
 1. Reuters: [Deutsche Post to officially rename as DHL](https://www.reuters.com/world/europe/deutsche-post-officially-rename-dhl-2026-05-05/) — belegt die politische und wirtschaftliche Einordnung des Beschlusses.
-2. DHL Group: [Annual General Meeting](https://group.dhl.com/en/investors/annual-general-meeting.html) — bestätigt Tagesordnung, Beschlusslage und Konzernunterlagen zur Umbenennung.
+2. MarketScreener: [New Corporate Identity: Deutsche Post to Become DHL](https://www.marketscreener.com/news/new-corporate-identity-deutsche-post-to-become-dhl-ce7f58dfdf88ff22) — ordnet die Umbenennung als Marken- und Strukturthema ein.

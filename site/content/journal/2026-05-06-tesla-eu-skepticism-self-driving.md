@@ -14,6 +14,12 @@ summary: "Tesla will FSD in Europa voranbringen, doch die regulatorische Skepsis
 - Die niederländische Behörde **RDW** bestätigt die vorläufige Typgenehmigung, betont aber zugleich, dass FSD Supervised kein autonomes Fahren ist.
 - **Electrek** ergänzt, dass mehrere europäische Regulierer genau die Sicherheitsfragen diskutieren, die Tesla für die EU-Freigabe überwinden muss.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Geht es bei der EU-Skepsis vor allem um Sicherheitsnachweise oder um eine grundsätzlich höhere Zulassungsschwelle für automatisierte Fahrfunktionen?
+- **Prüfidee:** Reuters mit der RDW-Information und Electrek abgleichen; darauf schauen, wie klar Supervised, Autonomie und Typgenehmigung getrennt werden.
+- **Quellen der Prüfung:** Reuters; RDW; Electrek
+
 ## Detailrecherche
 
 Automatisiertes Fahren lebt nicht nur von Software, sondern von Nachweisbarkeit. Genau da kollidieren Marketing, Produktstrategie und Aufsicht. Tesla ist bei solchen Themen traditionell offensiv, Behörden in Europa dagegen vorsichtig.

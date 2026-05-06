@@ -14,6 +14,12 @@ categories: ["journal"]
 - Die **EU-Ratsposition** zu einer Vereinfachung der KI-Regeln war zwar schon gesetzt, doch die konkreten Trilog-Fragen zu Ausnahmen und Fristen blieben offen.
 - Die **EU-Kommission** rahmt die AI-Act-Überarbeitung weiter als Teil eines breiteren Entlastungspakets für den Digitalbereich und verweist dabei auf die Simplifizierungslogik hinter dem Digital Omnibus.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Bremst der festgefahrene AI-Act-Prozess die Einführung von KI wirklich oder geht es vor allem um klarere Fristen, Ausnahmen und Zuständigkeiten?
+- **Prüfidee:** Reuters mit dem Rat der EU und der Kommissionsseite zum AI Act abgleichen; prüfen, welche Fristen, Ausnahmen und Vereinfachungen tatsächlich strittig sind.
+- **Quellen der Prüfung:** Reuters; Council of the European Union; European Commission AI Act-Seite
+
 ## Detailrecherche
 
 | Punkt | Stand | Wirkung |
@@ -41,5 +47,5 @@ Leipzig ist kein Brüsseler Gesetzgebungszentrum, aber ein Ort, an dem KI in Ver
 ## Quellen
 
 1. Reuters: [EU AI Act talks stall: EU countries, lawmakers fail to reach deal on watered-down AI rules](https://www.reuters.com/sustainability/boards-policy-regulation/eu-countries-lawmakers-fail-reach-deal-on-watered-down-ai-rules-2026-04-29/) — belegt den Stillstand in den Verhandlungen.
-2. Council of the European Union: [Council agrees position to streamline rules on Artificial Intelligence](https://www.consilium.europa.eu/en/press/press-releases/2026/03/13/council-agrees-position-to-streamline-rules-on-artificial-intelligence/) — zeigt die offizielle Vereinfachungsrichtung.
+2. Council of the European Union: [AI Act streamlining position on artificial intelligence](https://www.consilium.europa.eu/en/press/press-releases/2026/03/13/council-agrees-position-to-streamline-rules-on-artificial-intelligence/) — zeigt die offizielle Vereinfachungsrichtung.
 3. European Commission: [AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) — rahmt den Kommissionsansatz zu Vereinfachung, AI Pact und Umsetzungslogik.

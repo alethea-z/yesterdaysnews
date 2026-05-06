@@ -14,6 +14,12 @@ summary: "Die Nachricht ist mehr als ein Kulturtrend: Sie zeigt, wie schnell KI 
 - **The Independent** hebt hervor, dass viele Befragte Chatbots selbst bei mentalen Themen als leichter ansprechbar empfinden als Gesundheitsfachleute.
 - Die **APA** ordnet das als Teil eines breiteren Trends ein, bei dem digitale Begleiter emotionale Bindung und Sicherheitsrisiken zugleich erhöhen.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist die emotionale Nutzung von Chatbots ein neuer Jugendtrend oder eher eine neue Form altbekannter digitaler Selbsthilfe?
+- **Prüfidee:** Reuters mit The Independent und APA abgleichen; auf Altersgruppen, Nutzungskontexte und die Unterschiede zwischen Komfort, Bindung und Risiko achten.
+- **Quellen der Prüfung:** Reuters; The Independent; APA
+
 ## Detailrecherche
 
 Die Nutzung von Chatbots als Gesprächspartner ist kein neues Randphänomen. Schon frühere Online-Selbsthilfe-, Foren- und Messenger-Muster zeigen, dass Menschen digitale Systeme auch für Entlastung, Sortierung und kurze Rückversicherung verwenden.

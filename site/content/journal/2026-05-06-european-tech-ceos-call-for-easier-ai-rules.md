@@ -14,6 +14,12 @@ summary: "Mehrere europäische Tech-Chefs fordern weniger Komplexität bei den K
 - Parallel diskutiert die EU weiter über die Umsetzung des AI Act und ein Tech-Souveränitäts-Paket.
 - Die Debatte dreht sich nicht um ein „pro KI“ oder „gegen KI“, sondern um die Frage, wie viel Komplexität europäische Firmen beim Skalieren von KI aushalten.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Geht es bei den Forderungen nach einfacheren KI-Regeln vor allem um Wachstum oder um die Praktikabilität für kleinere Teams und den Mittelstand?
+- **Prüfidee:** Reuters mit der DIGITALEUROPE-Erklärung und der AI-Act-Umsetzung abgleichen; auf konkrete Hürden wie Dokumentation, Haftung und Datenzugang achten.
+- **Quellen der Prüfung:** Reuters; DIGITALEUROPE CEO-Declaration; EU AI Act / Umsetzungsdokumente
+
 ## Detailrecherche
 
 Die Forderung ist inhaltlich nicht überraschend. Seit Jahren fordern europäische Unternehmen, Verbände und Startups mehr Klarheit bei der digitalen Regulierung — vom Datenschutz bis zum AI Act. Neu ist eher, dass die Debatte jetzt direkt mit der Frage verknüpft wird, ob Europa bei KI skalieren kann oder an Umsetzungsreibung verliert.
@@ -49,4 +55,4 @@ Der Beitrag passt exakt zum yesterdaysnews-Muster: Die Meldung ist alt genug, um
 ## Quellen
 
 1. Reuters: [Top European tech CEOs call for easier AI rules](https://www.reuters.com/legal/litigation/top-european-tech-ceos-call-for-easier-ai-rules-2026-05-05/) — beschreibt die aktuelle Forderung großer europäischer Tech-Firmen.
-2. DIGITALEUROPE: [The European CEO AI and critical tech declaration](https://www.digitaleurope.org/the-ceo-letter/) — zeigt die inhaltliche Linie der europäischen Tech-Industrie.
+2. DIGITALEUROPE: [The European CEO AI and critical tech declaration](https://www.digitaleurope.org/the-ceo-letter/) — zeigt die inhaltliche Linie der europäischen Tech-Industrie und die Forderung nach praktikabler Umsetzung.

@@ -14,6 +14,12 @@ summary: "Meta treibt die nächste Phase von KI-Assistenten voran: personalisier
 - Die **Financial Times** beschreibt den Plan als hochgradig personalisierten Assistenten, intern gestützt auf das neue Modell Muse Spark.
 - **TechCrunch** ordnet Metas laufende Produktstrategie ein und verweist darauf, dass Meta KI bereits stärker in seine Business- und Messaging-Produkte einbettet.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist Metas Agenten-Assistent vor allem ein Komfortfeature oder der nächste Hebel für Plattformbindung und Datentiefe?
+- **Prüfidee:** Reuters mit der Financial Times und TechCrunch abgleichen; prüfen, welche Aufgaben autonom werden sollen und welche Datenflüsse dafür nötig sind.
+- **Quellen der Prüfung:** Reuters; Financial Times; TechCrunch
+
 ## Detailrecherche
 
 Die Debatte um agentische Assistenten ist nicht neu: Seit den ersten Sprachassistenten und Automatisierungs-Frameworks wird über den Sprung von Antwortsystemen zu ausführenden Systemen diskutiert. Neu ist eher die Marktreife, mit der Meta und andere Anbieter diesen Sprung produktisieren.

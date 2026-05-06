@@ -14,6 +14,12 @@ categories: ["journal"]
 - Die **Kiel Institute**-Analyse legt nahe, dass die Verluste über die Autoindustrie hinaus in Lieferketten, Zulieferer und Investitionspläne ausstrahlen.
 - Die Meldung kommt in eine Phase, in der die deutsche Industrie ohnehin mit schwächerer Nachfrage und geopolitischer Unsicherheit ringt.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Ist der Zollschock vor allem ein kurzfristiges Exportproblem oder ein breiteres Risiko für Lieferketten und Investitionen?
+- **Prüfidee:** Reuters gegen die Kiel-Institut-Analyse prüfen; auf Output-Verluste, betroffene Sektoren und Zeithorizonte achten.
+- **Quellen der Prüfung:** Reuters; Kiel Institute for the World Economy; ergänzende Handelsberichterstattung
+
 ## Detailrecherche
 
 | Bereich | Befund | Folge |
@@ -39,4 +45,4 @@ Das Thema erfüllt alle drei yesterdaysnews-Achsen: zeitlich frisch, fachlich ho
 ## Quellen
 
 1. Reuters: [Trump auto tariff hike could cost Germany nearly $18 billion in output, institute says](https://www.reuters.com/world/europe/trump-auto-tariff-hike-could-cost-germany-nearly-18-billion-output-institute-2026-05-02/)
-2. Kiel Institute for the World Economy: [US tariffs could significantly impact Europe’s automotive sector](https://www.kielinstitut.de/publications/news/kite-insta-analysis-us-tariffs-could-significantly-impact-europes-automotive-sector/)
+2. Economic Times / Reuters syndication: [Trump auto tariff hike could cost Germany nearly $18 billion in output](https://m.economictimes.com/news/international/business/trump-auto-tariff-hike-could-cost-germany-nearly-18-billion-in-output-institute-says/articleshow/130712551.cms) — macht den Deutschlandbezug und die Größenordnung sichtbar.

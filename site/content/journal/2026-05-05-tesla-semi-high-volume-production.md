@@ -13,6 +13,12 @@ categories: ["journal"]
 - Der Schritt markiert den Übergang von Pilotproduktion zu industrieller Fertigung in Nevada.
 - Die Meldung fällt in eine Phase, in der die E-Lkw-Industrie weltweit nach belastbaren Skaleneffekten sucht.
 
+## Recherchefrage und Prüfidee
+
+- **Recherchefrage:** Markiert der erste Semi aus der Hochvolumenproduktion schon den Sprung in die industrielle Routine oder bleibt es vorerst ein Skalierungssignal?
+- **Prüfidee:** Reuters mit Electrek und, wenn möglich, Tesla-/Produktionsangaben abgleichen; auf Produktionsort, Volumen, Zeitplan und Nutzungsreife achten.
+- **Quellen der Prüfung:** Reuters; Electrek; Tesla-Produktionsangaben
+
 ## Detailrecherche
 
 | Punkt | Beobachtung | Relevanz |
