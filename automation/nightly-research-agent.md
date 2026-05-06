@@ -5,11 +5,14 @@ Recherchiere jede Nacht für **yesterdaysnews** relevante Themen und schreibe pr
 
 ## Laufprinzip
 Der Nachtlauf arbeitet bewusst in kleinen, überprüfbaren Phasen:
+0. Den aktuellen Wissensstand laden: `criteria/*.md`, `site/archetypes/journal.md`, `decisions.md`, `open-questions.md` und die zuletzt geänderten Journal-Posts.
 1. Themen auswählen und auf Relevanz prüfen
 2. Quellen je Thema sammeln und grob validieren
-3. Pro Thema einen Beitrag schreiben
-4. `python3 scripts/source_lint.py` ausführen
-5. Erst bei grünem Check committen und pushen
+3. Pro Thema eine Recherchefrage und Prüfidee formulieren
+4. Zusätzliche Kontextquellen über neue Websuchen erschließen
+5. Pro Thema einen Beitrag schreiben
+6. `python3 scripts/source_lint.py` ausführen
+7. Erst bei grünem Check committen und pushen
 
 Wenn eine Phase zu groß wird, den Lauf in kleinere Batches splitten und den nächsten Batch separat bearbeiten.
 

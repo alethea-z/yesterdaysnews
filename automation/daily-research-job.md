@@ -39,9 +39,10 @@ Jeder potenzielle Treffer wird gegen vier Hauptkriterien geprüft:
 
 ## Arbeitsauftrag
 1. Relevante Themen recherchieren.
-2. Die Recherche mit mehreren Startpunkten beginnen: Primärquelle, unabhängige Berichtsquelle, ggf. dritte Einordnung.
-3. Aus der Initialmeldung eigene Folge-Suchanfragen ableiten, die Geschichte, Vergleichsfälle, Auswirkungen und regionale Unterschiede erschließen.
-4. Pro Thema eine Presseschau mit Quellen aus unterschiedlichen Rollen erstellen.
+2. Zu Beginn den aktuellen Wissensstand laden: `criteria/*.md`, `site/archetypes/journal.md`, `decisions.md`, `open-questions.md` und die zuletzt bearbeiteten Posts.
+3. Die Recherche mit mehreren Startpunkten beginnen: Primärquelle, unabhängige Berichtsquelle, ggf. dritte Einordnung.
+4. Aus der Initialmeldung eigene Folge-Suchanfragen ableiten, die Geschichte, Vergleichsfälle, Auswirkungen und regionale Unterschiede erschließen.
+5. Pro Thema eine Presseschau mit Quellen aus unterschiedlichen Rollen erstellen.
 5. Pro Thema eine **Recherchefrage** formulieren, die den Einzelfall zu einer überprüfbaren größeren Fragestellung verdichtet.
 6. Zu jeder Recherchefrage eine **Prüfidee** festhalten: Welche Primärquelle, welche unabhängige Berichtsquelle und welche Kontextquelle tragen die Antwort?
 7. Pro Thema zusätzliche, neu gesuchte Quellen für Hintergründe, Kontext und Detailrecherche sammeln.
@@ -71,3 +72,4 @@ Jeder potenzielle Treffer wird gegen vier Hauptkriterien geprüft:
 ## Status
 - Platzhalter / initiale Definition
 - Automatisierung wird separat über Cron betrieben
+- Interaktive Zusammenarbeit ändert nicht direkt Posts, sondern passt nur die Laufanweisungen und Kriterien an; die eigentliche Ausführung läuft dann über denselben Batch- und Nightly-Mechanismus.
